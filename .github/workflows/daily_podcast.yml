@@ -1,0 +1,46 @@
+name: Auto Podcast Daily Automation
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repositório
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Executar Pipeline Automático
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python main.py
+
+      - name: Fazer Commit e Push do Novo Episódio
+        run: |
+          git config --global user.name 'AutoPodcast Bot'
+          git config --global user.email 'bot@autopodcast.local'
+          git fetch origin main
+          git reset --soft origin/main
+          git add data/episodes.json rss.xml episodes/ index.html cover.jpg
+          git commit -m "auto: Publicado novo episódio do Podcast" || exit 0
+          git push origin HEAD:main || (git fetch origin main && git rebase -Xours origin/main && git push origin HEAD:main)

@@ -1,0 +1,48 @@
+{
+  "podcast": {
+    "title": "Meu Podcast de TI & Tecnologia",
+    "tagline": "Tudo sobre Programação, IA & Inovação Descomplicada",
+    "description": "O podcast diário que traduz o 'tecniquês' em conversas leves sobre tecnologia, desenvolvimento e inovação para todos os públicos.",
+    "author": "Seu Nome / Seus Apresentadores",
+    "email": "seu-email@exemplo.com",
+    "link": "https://seu-usuario.github.io/seu-repositorio",
+    "category": "Technology",
+    "language": "pt-br",
+    "schedule_time_brt": "07:00 da manhã"
+  },
+  "hosts": {
+    "host_1": {
+      "name": "Tico",
+      "voice": "pt-BR-AntonioNeural",
+      "role": "O estudante curioso. Faz perguntas de leigo e representa quem está aprendendo do zero.",
+      "gender": "male"
+    },
+    "host_2": {
+      "name": "Tech",
+      "voice": "pt-BR-FranciscaNeural",
+      "role": "A especialista. Explica os conceitos com analogias práticas e dicas reais de código.",
+      "gender": "female"
+    },
+    "mascot": {
+      "name": "Robô de IA",
+      "role": "O assistente virtual que busca notícias em tempo real e apoia na produção."
+    }
+  },
+  "feeds": [
+    {
+      "name": "freeCodeCamp PT",
+      "url": "https://www.freecodecamp.org/portuguese/news/rss/"
+    },
+    {
+      "name": "Blog Alura",
+      "url": "https://www.alura.com.br/artigos/rss"
+    },
+    {
+      "name": "TabNews",
+      "url": "https://www.tabnews.com.br/rss"
+    }
+  ],
+  "keywords": [
+    "python", "sql", "programação", "tecnologia", "desenvolvimento", "ia", "dados", "carreira", "código", "banco de dados"
+  ]
+}
