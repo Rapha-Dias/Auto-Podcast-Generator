@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meu Podcast de TI &amp; Tecnologia</title>
+    <link>https://seu-usuario.github.io/seu-repositorio</link>
+    <description>O podcast diário que traduz o 'tecniquês' em conversas leves sobre tecnologia, desenvolvimento e inovação para todos os públicos.</description>
+    <language>pt-br</language>
+    <itunes:author>Seu Nome / Seus Apresentadores</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Seu Nome / Seus Apresentadores</itunes:name>
+      <itunes:email>seu-email@exemplo.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>seu-email@exemplo.com (Seu Nome / Seus Apresentadores)</managingEditor>
+    <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
+    <itunes:category text="Technology" />
+    <item>
+      <title>Ep 01: Destaques: Julia Labs - Hardware, leds e Projetos criativos</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep53/
+• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep52/
+• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep51/
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep001-20260731</guid>
+      <pubDate>Fri, 31 Jul 2026 11:52:18 +0000</pubDate>
+      <itunes:duration>00:04:07</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep01_audio.mp3" length="1485216" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
