@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2,
+    "guid": "podcast-ep002-20260801",
+    "title": "Ep 02: Destaques: Guilherme Rodrigues - Apps Inteligentes No-Code e IA",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep50/\n• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep49/\n• Blog Alura: https://www.alura.com.br/artigos/builder\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep02_audio.mp3",
+    "audio_bytes": 1459872,
+    "pubDate": "Sat, 01 Aug 2026 11:11:05 +0000",
+    "duration": "00:04:03",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: GUILHERME RODRIGUES - APPS INTELIGENTES NO-CODE E IA\nTico: Tech, hoje vamos conversar sobre Guilherme Rodrigues - Apps Inteligentes No-Code e IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Guilherme Rodrigues - Apps Inteligentes No-Code e IA, vale a pena usar uma analogia do cotidiano. No episódio de hoje falei com Guilherme Rodrigues, cofundador da WebDraw, uma plataforma que permite criar aplicativos usando inteligência artificial em questão de segundos. Conta sobre sua jornada empreendedora e como chegou no mundo da tecnologia até a criação de soluções inovadoras com inteligência artificial. Ele discute o impacto Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: SIBELIUS SERAPHINI - CONSTRUÇÃO DE UMA FINTECH\nTico: Tech, hoje vamos conversar sobre Sibelius Seraphini - Construção de uma fintech. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Sibelius Seraphini - Construção de uma fintech, vale a pena usar uma analogia do cotidiano. Nesse episódio tive o prazer de conversar com Sibelius Seraphini, cofundador da Wolvi, uma fintech focada em soluções de pagamentos via PIX. Sibelio fala sobre sua trajetória no mundo das startups, desde a criação de sua primeira empresa até a construção da Wolvi, discutindo como a evolução do produto, Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: BUILDER: O QUE É E COMO SE TORNAR UM NA ERA DA IA\nTico: Tech, hoje vamos conversar sobre Builder: o que é e como se tornar um na era da IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Builder: o que é e como se tornar um na era da IA, vale a pena usar uma analogia do cotidiano. Entenda o conceito de builder, de onde ele vem, o que muda na prática para quem cria software com IA e como desenvolver esse perfil. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "freeCodeCamp PT",
+        "https://www.freecodecamp.org/portuguese/news/podcast-ep50/"
+      ],
+      [
+        "freeCodeCamp PT",
+        "https://www.freecodecamp.org/portuguese/news/podcast-ep49/"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/builder"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep02_audio.mp3"
+  },
+  {
+    "id": 1,
+    "guid": "podcast-ep001-20260731",
+    "title": "Ep 01: Destaques: Julia Labs - Hardware, leds e Projetos criativos",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep53/\n• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep52/\n• freeCodeCamp PT: https://www.freecodecamp.org/portuguese/news/podcast-ep51/\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep01_audio.mp3",
+    "audio_bytes": 1485216,
+    "pubDate": "Fri, 31 Jul 2026 11:52:18 +0000",
+    "duration": "00:04:07",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: JULIA LABS - HARDWARE, LEDS E PROJETOS CRIATIVOS\nTico: Tech, hoje vamos conversar sobre Julia Labs - Hardware, leds e Projetos criativos. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Julia Labs - Hardware, leds e Projetos criativos, vale a pena usar uma analogia do cotidiano. Neste episódio, tive o prazer de conversar com Júlia Labs, engenheira de computação e criadora do projeto Julia Labs, sobre como ela transforma o mundo do hardware em algo criativo e acessível. Júlia compartilha sua jornada de empreendedora e produtora de conteúdo, destacando como a eletrônica pode ser mais Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: JESSICA TEMPORAL - COMO AS APLICAÇÕES SABEM QUEM É VOCÊ?\nTico: Tech, hoje vamos conversar sobre Jessica Temporal - Como as aplicações sabem quem é você?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Jessica Temporal - Como as aplicações sabem quem é você?, vale a pena usar uma analogia do cotidiano. No episódio de hoje vamos mergulhar em uma conversa fascinante com Jéssica Temporal, Developer Advocate na Auth0, especialista em segurança e identidade digital. Jéssica compartilha sua trajetória única, desde sua formação em informática biomédica até sua atuação no mundo da tecnologia, passando pela transição para o universo da segurança Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: TÉO CALVO - O MAGO DAS CIÊNCIAS DE DADOS\nTico: Tech, hoje vamos conversar sobre Téo Calvo - O Mago das ciências de Dados. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Téo Calvo - O Mago das ciências de Dados, vale a pena usar uma analogia do cotidiano. No vídeo de hoje tive o prazer de conversar com o Téo Calvo, um estatístico e especialista na área de dados, com experiência em empresas como idwall e Grupo Boticário. É o criador da iniciativa Téo Me Why, onde ensina programação e ciência de dados gratuitamente na Twitch, acumulando Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "freeCodeCamp PT",
+        "https://www.freecodecamp.org/portuguese/news/podcast-ep53/"
+      ],
+      [
+        "freeCodeCamp PT",
+        "https://www.freecodecamp.org/portuguese/news/podcast-ep52/"
+      ],
+      [
+        "freeCodeCamp PT",
+        "https://www.freecodecamp.org/portuguese/news/podcast-ep51/"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep01_audio.mp3"
+  }
+]
