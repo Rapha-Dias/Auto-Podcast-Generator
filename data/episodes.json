@@ -1,5 +1,38 @@
 [
   {
+    "id": 5,
+    "guid": "podcast-ep005-20260804",
+    "title": "Ep 05: Destaques: LinkedIn cria botão para denunciar posts feitos por IA",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/linkedin-cria-botao-para-denunciar-ia\n• Blog Alura: https://www.alura.com.br/artigos/professor-usa-comando-oculto\n• Blog Alura: https://www.alura.com.br/artigos/anthropic-lanca-claude-opus-5-para-empresas-e-programacao\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep05_audio.mp3",
+    "audio_bytes": 1385136,
+    "pubDate": "Tue, 04 Aug 2026 11:55:50 +0000",
+    "duration": "00:03:50",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: LINKEDIN CRIA BOTÃO PARA DENUNCIAR POSTS FEITOS POR IA\nTico: Tech, hoje vamos conversar sobre LinkedIn cria botão para denunciar posts feitos por IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender LinkedIn cria botão para denunciar posts feitos por IA, vale a pena usar uma analogia do cotidiano. LinkedIn permite denunciar posts gerados por IA com novo botão \"AI slop\". Saiba como funciona e por que a plataforma amplia moderação de conteúdo Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: PROFESSOR USA COMANDO OCULTO E REPROVA 32 ALUNOS POR COLAR COM IA\nTico: Tech, hoje vamos conversar sobre Professor usa comando oculto e reprova 32 alunos por colar com IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Professor usa comando oculto e reprova 32 alunos por colar com IA, vale a pena usar uma analogia do cotidiano. Professor usa prompt injection invisível para identificar uso indevido de IA em provas e reacende debate sobre ética e segurança na educação. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: ANTHROPIC LANÇA CLAUDE OPUS 5 PARA EMPRESAS E PROGRAMAÇÃO\nTico: Tech, hoje vamos conversar sobre Anthropic lança Claude Opus 5 para empresas e programação. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Anthropic lança Claude Opus 5 para empresas e programação, vale a pena usar uma analogia do cotidiano. Claude Opus 5 é o novo modelo da Anthropic para programação e uso empresarial, com desempenho próximo ao Fable 5 e metade do seu custo. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/linkedin-cria-botao-para-denunciar-ia"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/professor-usa-comando-oculto"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/anthropic-lanca-claude-opus-5-para-empresas-e-programacao"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep05_audio.mp3"
+  },
+  {
     "id": 4,
     "guid": "podcast-ep004-20260803",
     "title": "Ep 04: Destaques: Claude Fable 5 ajuda matemático a resolver problema de 87 anos",

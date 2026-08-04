@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 05: Destaques: LinkedIn cria botão para denunciar posts feitos por IA</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/linkedin-cria-botao-para-denunciar-ia
+• Blog Alura: https://www.alura.com.br/artigos/professor-usa-comando-oculto
+• Blog Alura: https://www.alura.com.br/artigos/anthropic-lanca-claude-opus-5-para-empresas-e-programacao
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep005-20260804</guid>
+      <pubDate>Tue, 04 Aug 2026 11:55:50 +0000</pubDate>
+      <itunes:duration>00:03:50</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep05_audio.mp3" length="1385136" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 04: Destaques: Claude Fable 5 ajuda matemático a resolver problema de 87 anos</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
