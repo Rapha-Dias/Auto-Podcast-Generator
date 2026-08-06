@@ -1,5 +1,38 @@
 [
   {
+    "id": 7,
+    "guid": "podcast-ep007-20260806",
+    "title": "Ep 07: Destaques: Como usar o Claude Code no Windows para aumentar produtividade?",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/como-usar-o-claude-code-no-windows\n• Blog Alura: https://www.alura.com.br/artigos/o-que-e-skills-e-go\n• TabNews: https://www.tabnews.com.br/josuedaconceicao/qual-foi-a-pergunta-sobre-carreira-na-area-de-ti-que-voce-mais-recebeu-sobre-o-mercado-de-trabalho-e-qual-seria-a-sua-resposta-definitiva-josue-da-conceicao\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep07_audio.mp3",
+    "audio_bytes": 1447200,
+    "pubDate": "Thu, 06 Aug 2026 11:57:05 +0000",
+    "duration": "00:04:01",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: COMO USAR O CLAUDE CODE NO WINDOWS PARA AUMENTAR PRODUTIVIDADE?\nTico: Tech, hoje vamos conversar sobre Como usar o Claude Code no Windows para aumentar produtividade?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como usar o Claude Code no Windows para aumentar produtividade?, vale a pena usar uma analogia do cotidiano. Aprenda como abrir e configurar o Claude Code no Windows, instalar corretamente a ferramenta e usar IA para programar com mais produtividade. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: SKILLS &AMP; GO: O QUE É O NOVO PROGRAMA DA ALURA + FIAP\nTico: Tech, hoje vamos conversar sobre Skills &amp; Go: o que é o novo programa da Alura + FIAP. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Skills &amp; Go: o que é o novo programa da Alura + FIAP, vale a pena usar uma analogia do cotidiano. Conheça o Skills & Go: cursos intensivos ao vivo da Alura + FIAP para dominar IA na prática, em duas semanas e com certificação conjunta. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: QUAL FOI A PERGUNTA SOBRE CARREIRA NA ÁREA DE TI QUE VOCÊ MAIS RECEBEU SOBRE O MERCADO DE TRABALHO E QUAL SERIA A SUA RESPOSTA DEFINITIVA? | JOSUÉ DA CONCEIÇÃO\nTico: Tech, hoje vamos conversar sobre Qual foi a pergunta sobre carreira na área de TI que você mais recebeu sobre o mercado de trabalho e qual seria a sua resposta definitiva? | Josué da Conceição. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Qual foi a pergunta sobre carreira na área de TI que você mais recebeu sobre o mercado de trabalho e qual seria a sua resposta definitiva? | Josué da Conceição, vale a pena usar uma analogia do cotidiano. A maior dúvida de carreira de TI existe e você pode responder com base na sua experiência sólida de mercado. Por que você não se torna um mentor de carreira para pessoas que desejam ingre... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/como-usar-o-claude-code-no-windows"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/o-que-e-skills-e-go"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/josuedaconceicao/qual-foi-a-pergunta-sobre-carreira-na-area-de-ti-que-voce-mais-recebeu-sobre-o-mercado-de-trabalho-e-qual-seria-a-sua-resposta-definitiva-josue-da-conceicao"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep07_audio.mp3"
+  },
+  {
     "id": 6,
     "guid": "podcast-ep006-20260805",
     "title": "Ep 06: Destaques: Estratégia de dados com IA: o que é e como aplicar",
