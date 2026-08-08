@@ -1,5 +1,38 @@
 [
   {
+    "id": 9,
+    "guid": "podcast-ep009-20260808",
+    "title": "Ep 09: Destaques: Pitch: o que aprendi construindo memória persistente para um assistente de IA self-hosted",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/avelinaai/pitch-o-que-aprendi-construindo-memoria-persistente-para-um-assistente-de-ia-self-hosted\n• TabNews: https://www.tabnews.com.br/devfullstacknet/discussao-como-voce-organiza-seu-front\n• TabNews: https://www.tabnews.com.br/rogeriomaciel/de-workflows-visuais-a-codigo-nativo-em-producao-a-jornada-completa-de-um-backend-n8n\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep09_audio.mp3",
+    "audio_bytes": 1425312,
+    "pubDate": "Sat, 08 Aug 2026 10:21:09 +0000",
+    "duration": "00:03:57",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: PITCH: O QUE APRENDI CONSTRUINDO MEMÓRIA PERSISTENTE PARA UM ASSISTENTE DE IA SELF-HOSTED\nTico: Tech, hoje vamos conversar sobre Pitch: o que aprendi construindo memória persistente para um assistente de IA self-hosted. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: o que aprendi construindo memória persistente para um assistente de IA self-hosted, vale a pena usar uma analogia do cotidiano. Passei os últimos meses construindo um assistente de IA pessoal que roda no VPS do próprio usuário (Debian + systemd, ~US$ 6/mês) e é usado pelo Telegram. Deixo claro logo no início: é um... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: COMO VOCÊ ORGANIZA SEU FRONT?\nTico: Tech, hoje vamos conversar sobre Como você organiza seu front?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como você organiza seu front?, vale a pena usar uma analogia do cotidiano. Vocês costumam organizar o projeto por tipo de arquivo, por features ou isso depende do projeto? Queria abrir uma discussão que é muito comum no backend, mas que, na minha opinião, muitas... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PITCH: DE WORKFLOWS VISUAIS A CÓDIGO NATIVO EM PRODUÇÃO: A JORNADA COMPLETA DE UM BACKEND N8N\nTico: Tech, hoje vamos conversar sobre Pitch: De workflows visuais a código nativo em produção: a jornada completa de um backend n8n. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: De workflows visuais a código nativo em produção: a jornada completa de um backend n8n, vale a pena usar uma analogia do cotidiano. Fala pessoal do TabNews! Acabei de publicar esse relato no meu LinkedIn sobre como resolvi um gargalo brutal de latência no meu SaaS, mas achei que a comunidade aqui ia curtir a engenhari... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/avelinaai/pitch-o-que-aprendi-construindo-memoria-persistente-para-um-assistente-de-ia-self-hosted"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/devfullstacknet/discussao-como-voce-organiza-seu-front"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/rogeriomaciel/de-workflows-visuais-a-codigo-nativo-em-producao-a-jornada-completa-de-um-backend-n8n"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep09_audio.mp3"
+  },
+  {
     "id": 8,
     "guid": "podcast-ep008-20260807",
     "title": "Ep 08: Destaques: MVP com IA: o que é e como criar o seu passo a passo",
