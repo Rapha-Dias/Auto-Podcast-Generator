@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 10: Destaques: A elite da IA está deixando a Google? | Fabrício Carraro opina</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/a-elite-da-ia-esta-deixando-a-google
+• TabNews: https://www.tabnews.com.br/josivansanttos/criei-um-gerenciador-de-mods-do-zero-jmod-engine-preview-oficial
+• TabNews: https://www.tabnews.com.br/dsouza1979/fiz-um-visualizador-de-arquivo-cnab-240-que-roda-100-por-cento-no-navegador
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep010-20260809</guid>
+      <pubDate>Sun, 09 Aug 2026 10:22:21 +0000</pubDate>
+      <itunes:duration>00:03:47</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep10_audio.mp3" length="1366560" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 09: Destaques: Pitch: o que aprendi construindo memória persistente para um assistente de IA self-hosted</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
