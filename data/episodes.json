@@ -1,5 +1,38 @@
 [
   {
+    "id": 11,
+    "guid": "podcast-ep011-20260810",
+    "title": "Ep 11: Destaques: Criei um compressor de vídeo simples em português",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/heyangoscar/criei-um-compressor-de-video-simples-em-portugues\n• TabNews: https://www.tabnews.com.br/sauloFerroMaciel/ollama-chat-projetinho-de-chat-para-ia-pelo-terminal\n• TabNews: https://www.tabnews.com.br/Centelha/o-agente-disse-que-terminou-cade-as-evidencias\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep11_audio.mp3",
+    "audio_bytes": 1374768,
+    "pubDate": "Mon, 10 Aug 2026 10:57:52 +0000",
+    "duration": "00:03:49",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: CRIEI UM COMPRESSOR DE VÍDEO SIMPLES EM PORTUGUÊS\nTico: Tech, hoje vamos conversar sobre Criei um compressor de vídeo simples em português. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Criei um compressor de vídeo simples em português, vale a pena usar uma analogia do cotidiano. Nos últimos meses comecei a pesquisar algumas ferramentas online simples, principalmente coisas que as pessoas usam no dia a dia. Uma coisa que me chamou atenção foi a quantidade de pesso... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: OLLAMA-CHAT: PROJETINHO DE CHAT PARA IA PELO TERMINAL\nTico: Tech, hoje vamos conversar sobre Ollama-chat: Projetinho de Chat para IA pelo Terminal. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Ollama-chat: Projetinho de Chat para IA pelo Terminal, vale a pena usar uma analogia do cotidiano. Fala rede, tudo bem? Eu tenho percebido que a conta da IA ficou muito cara. Por exemplo, para o Claude tornar-se melhor, está exigindo muitos recursos (energia e livros). E para movimenta... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: O AGENTE DISSE QUE TERMINOU. CADÊ AS EVIDÊNCIAS?\nTico: Tech, hoje vamos conversar sobre O agente disse que terminou. Cadê as evidências?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender O agente disse que terminou. Cadê as evidências?, vale a pena usar uma analogia do cotidiano. Você delega uma correção, espera alguns minutos e recebe uma resposta impecável: tarefa concluída, problema resolvido, testes passando. Aí começa o trabalho que deveria ter acabado. É pre... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/heyangoscar/criei-um-compressor-de-video-simples-em-portugues"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/sauloFerroMaciel/ollama-chat-projetinho-de-chat-para-ia-pelo-terminal"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/Centelha/o-agente-disse-que-terminou-cade-as-evidencias"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep11_audio.mp3"
+  },
+  {
     "id": 10,
     "guid": "podcast-ep010-20260809",
     "title": "Ep 10: Destaques: A elite da IA está deixando a Google? | Fabrício Carraro opina",
