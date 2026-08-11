@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 12: Destaques: Reestruturação no Google DeepMind muda comando da divisão de IA</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/reestruturacao-no-google-deepmind
+• Blog Alura: https://www.alura.com.br/artigos/chatgpt-comeca-a-testar-anuncios-para-usuarios-no-brasil
+• Blog Alura: https://www.alura.com.br/artigos/openai-revela-astra
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep012-20260811</guid>
+      <pubDate>Tue, 11 Aug 2026 10:41:56 +0000</pubDate>
+      <itunes:duration>00:03:48</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep12_audio.mp3" length="1372320" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 11: Destaques: Criei um compressor de vídeo simples em português</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
