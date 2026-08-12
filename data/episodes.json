@@ -1,5 +1,38 @@
 [
   {
+    "id": 13,
+    "guid": "podcast-ep013-20260812",
+    "title": "Ep 13: Destaques: Como preparar dados para aplicações com LLMs: o guia completo",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/estrategia-de-dados-para-llm\n• Blog Alura: https://www.alura.com.br/artigos/problemas-que-podem-ser-resolvidos-com-ia\n• Blog Alura: https://www.alura.com.br/artigos/engenharia-de-prompt-vs-engenharia-de-agentes\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep13_audio.mp3",
+    "audio_bytes": 1369584,
+    "pubDate": "Wed, 12 Aug 2026 10:51:19 +0000",
+    "duration": "00:03:48",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: COMO PREPARAR DADOS PARA APLICAÇÕES COM LLMS: O GUIA COMPLETO\nTico: Tech, hoje vamos conversar sobre Como preparar dados para aplicações com LLMs: o guia completo. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como preparar dados para aplicações com LLMs: o guia completo, vale a pena usar uma analogia do cotidiano. Entenda como preparar, proteger e monitorar dados para criar aplicações com LLMs mais confiáveis, seguras e eficientes. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: UM GUIA PRÁTICO DE PROBLEMAS QUE PODEM SER RESOLVIDOS COM IA\nTico: Tech, hoje vamos conversar sobre Um guia prático de problemas que podem ser resolvidos com IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Um guia prático de problemas que podem ser resolvidos com IA, vale a pena usar uma analogia do cotidiano. Aprenda a identificar problemas que podem ser resolvidos com IA: critérios, processo passo a passo, ferramentas, pilotos e métricas de sucesso. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: ENTENDA A DIFERENÇA ENTRE ENGENHARIA DE PROMPT VS ENGENHARIA DE AGENTES\nTico: Tech, hoje vamos conversar sobre Entenda a diferença entre engenharia de prompt vs engenharia de agentes. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Entenda a diferença entre engenharia de prompt vs engenharia de agentes, vale a pena usar uma analogia do cotidiano. Entenda a diferença entre engenharia de prompt e engenharia de agentes: conceitos, técnicas, arquitetura, quando usar cada uma e carreira. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/estrategia-de-dados-para-llm"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/problemas-que-podem-ser-resolvidos-com-ia"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/engenharia-de-prompt-vs-engenharia-de-agentes"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep13_audio.mp3"
+  },
+  {
     "id": 12,
     "guid": "podcast-ep012-20260811",
     "title": "Ep 12: Destaques: Reestruturação no Google DeepMind muda comando da divisão de IA",
