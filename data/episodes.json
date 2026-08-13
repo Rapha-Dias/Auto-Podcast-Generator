@@ -1,5 +1,38 @@
 [
   {
+    "id": 14,
+    "guid": "podcast-ep014-20260813",
+    "title": "Ep 14: Destaques: Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/atualizacoes-da-alura-2\n• Blog Alura: https://www.alura.com.br/artigos/trabalhar-de-forma-sincrona-com-20-agentes-vai-te-deixar-exausto\n• TabNews: https://www.tabnews.com.br/Centelha/agente-persistente-nao-e-memoria-e-um-ambiente-com-contrato\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep14_audio.mp3",
+    "audio_bytes": 1539792,
+    "pubDate": "Thu, 13 Aug 2026 10:52:59 +0000",
+    "duration": "00:04:16",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: ATUALIZAÇÕES DA ALURA #2: IA, CARREIRAS E FUNCIONALIDADES PARA SUA CARREIRA\nTico: Tech, hoje vamos conversar sobre Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira, vale a pena usar uma analogia do cotidiano. Confira a segunda edição do Alura Commit e veja novas carreiras, ferramentas na plataforma e imersões práticas para você se atualizar e impulsionar sua carreira. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: \"TRABALHAR DE FORMA SÍNCRONA COM 20 AGENTES VAI TE DEIXAR EXAUSTO\", DIZ MATT VELLOSO, EX-META, MICROSOFT E GOOGLE\nTico: Tech, hoje vamos conversar sobre \"Trabalhar de forma síncrona com 20 agentes vai te deixar exausto\", diz Matt Velloso, ex-Meta, Microsoft e Google. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender \"Trabalhar de forma síncrona com 20 agentes vai te deixar exausto\", diz Matt Velloso, ex-Meta, Microsoft e Google, vale a pena usar uma analogia do cotidiano. Depois de passar por Microsoft, Google DeepMind e Meta, Matt Velloso alerta que o Brasil corre o risco de ficar para trás na corrida da IA e que o excesso de agentes trabalhando em paralelo já está gerando burnout entre desenvolvedores. Ao Alura Labs, ele defende energia barata, parcerias estratégicas e um novo modelo de trabalho com IA como caminh Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: AGENTE PERSISTENTE NÃO É MEMÓRIA: É UM AMBIENTE COM CONTRATO\nTico: Tech, hoje vamos conversar sobre Agente persistente não é memória: é um ambiente com contrato. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Agente persistente não é memória: é um ambiente com contrato, vale a pena usar uma analogia do cotidiano. Um agente trabalhou durante a noite. Pela manh, h arquivos novos no workspace, um log comprido e uma mensagem dizendo que a tarefa pode continuar de onde parou. Mas em qual branch ele est... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/atualizacoes-da-alura-2"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/trabalhar-de-forma-sincrona-com-20-agentes-vai-te-deixar-exausto"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/Centelha/agente-persistente-nao-e-memoria-e-um-ambiente-com-contrato"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep14_audio.mp3"
+  },
+  {
     "id": 13,
     "guid": "podcast-ep013-20260812",
     "title": "Ep 13: Destaques: Como preparar dados para aplicações com LLMs: o guia completo",
