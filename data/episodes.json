@@ -1,5 +1,38 @@
 [
   {
+    "id": 15,
+    "guid": "podcast-ep015-20260814",
+    "title": "Ep 15: Destaques: \"Ética em IA também é engenharia\", diz Andressa Freires, da diversiData",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia\n• TabNews: https://www.tabnews.com.br/carubbi/tessera-analise-de-codigo-com-grafo-de-conhecimento-versionado\n• TabNews: https://www.tabnews.com.br/BruxinStyle/a-microsoft-reescreveu-o-compilador-do-typescript-em-go-ts-7-0-e-ficou-10x-mais-rapido\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep15_audio.mp3",
+    "audio_bytes": 1445040,
+    "pubDate": "Fri, 14 Aug 2026 10:48:50 +0000",
+    "duration": "00:04:00",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: \"ÉTICA EM IA TAMBÉM É ENGENHARIA\", DIZ ANDRESSA FREIRES, DA DIVERSIDATA\nTico: Tech, hoje vamos conversar sobre \"Ética em IA também é engenharia\", diz Andressa Freires, da diversiData. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender \"Ética em IA também é engenharia\", diz Andressa Freires, da diversiData, vale a pena usar uma analogia do cotidiano. Andressa Freires defende que Responsible AI deveria ser requisito de engenharia e produto desde a definição do problema, e que diversidade nas equipes é uma questão de qualidade técnica. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: TESSERA: ANÁLISE DE CÓDIGO COM GRAFO DE CONHECIMENTO VERSIONADO\nTico: Tech, hoje vamos conversar sobre Tessera: análise de código com grafo de conhecimento versionado. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Tessera: análise de código com grafo de conhecimento versionado, vale a pena usar uma analogia do cotidiano. Screenshot Analisar código é mais do que ler arquivo por arquivo. Você quer entender a arquitetura: quem chama quem, quais são as dependências escondidas, o que quebra se uma função mudar... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: A MICROSOFT REESCREVEU O COMPILADOR DO TYPESCRIPT EM GO  E FICOU 10X MAIS RÁPIDO\nTico: Tech, hoje vamos conversar sobre A Microsoft reescreveu o compilador do TypeScript em Go  e ficou 10x mais rápido. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender A Microsoft reescreveu o compilador do TypeScript em Go  e ficou 10x mais rápido, vale a pena usar uma analogia do cotidiano. Fala pessoal! Estava lendo os últimos updates de arquitetura no DevBlog da Microsoft e me deparei com uma das maiores mudanças do TypeScript na história. No recém-lançado TypeScript 7.0 (... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/carubbi/tessera-analise-de-codigo-com-grafo-de-conhecimento-versionado"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/BruxinStyle/a-microsoft-reescreveu-o-compilador-do-typescript-em-go-ts-7-0-e-ficou-10x-mais-rapido"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep15_audio.mp3"
+  },
+  {
     "id": 14,
     "guid": "podcast-ep014-20260813",
     "title": "Ep 14: Destaques: Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira",

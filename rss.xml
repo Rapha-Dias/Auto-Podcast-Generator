@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 15: Destaques: "Ética em IA também é engenharia", diz Andressa Freires, da diversiData</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/etica-em-ia-tambem-e-engenharia
+• TabNews: https://www.tabnews.com.br/carubbi/tessera-analise-de-codigo-com-grafo-de-conhecimento-versionado
+• TabNews: https://www.tabnews.com.br/BruxinStyle/a-microsoft-reescreveu-o-compilador-do-typescript-em-go-ts-7-0-e-ficou-10x-mais-rapido
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep015-20260814</guid>
+      <pubDate>Fri, 14 Aug 2026 10:48:50 +0000</pubDate>
+      <itunes:duration>00:04:00</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep15_audio.mp3" length="1445040" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 14: Destaques: Atualizações da Alura #2: IA, carreiras e funcionalidades para sua carreira</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
