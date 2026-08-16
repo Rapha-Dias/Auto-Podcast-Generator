@@ -1,5 +1,38 @@
 [
   {
+    "id": 17,
+    "guid": "podcast-ep017-20260816",
+    "title": "Ep 17: Destaques: Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/mazinhorj/criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo\n• TabNews: https://www.tabnews.com.br/trenton/eu-gosto-de-programar\n• TabNews: https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep17_audio.mp3",
+    "audio_bytes": 1368720,
+    "pubDate": "Sun, 16 Aug 2026 10:13:08 +0000",
+    "duration": "00:03:48",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: PITCH: CRIEI UMA CLI EM SHELL SCRIPT PARA AUTOMATIZAR O SETUP COMPLETO DE REPOSITÓRIOS GIT/GITHUB\nTico: Tech, hoje vamos conversar sobre Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub, vale a pena usar uma analogia do cotidiano. Toda vez que eu começava um novo projeto, me pegava repetindo os mesmos passos manuais: Criar a pasta do projeto. Rodar git init e configurar a branch principal. Criar .gitignore, .env.ex... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: EU GOSTAVA DO MEU TRABALHO\nTico: Tech, hoje vamos conversar sobre Eu gostava do meu trabalho. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Eu gostava do meu trabalho, vale a pena usar uma analogia do cotidiano. Antes mesmo de tomar programação como carreira eu adorava brincar de montar jogos de escolha com python. Criava várias mini histórias totalmente baseadas em for loops, if/else e print/inp... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: COMO VAMOS DEFINIR OS NOVOS DEVS SÊNIORS?\nTico: Tech, hoje vamos conversar sobre Como vamos definir os novos devs sêniors?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como vamos definir os novos devs sêniors?, vale a pena usar uma analogia do cotidiano. Tem uma pergunta que anda martelando na minha cabeça toda vez que vejo alguém se apresentando como \"sênior em X\" ou \"domino a linguagem Y\": domina como, exatamente? Não é implicância ou a... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/mazinhorj/criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/trenton/eu-gosto-de-programar"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep17_audio.mp3"
+  },
+  {
     "id": 16,
     "guid": "podcast-ep016-20260815",
     "title": "Ep 16: Destaques: \"O gargalo hoje é saber o que fazer\", diz Filipe Lauar, engenheiro de IA na Enter e host do podcast Vida com IA",

@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 17: Destaques: Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/mazinhorj/criei-uma-cli-em-shell-script-para-automatizar-o-setup-completo-de-repositorios-git-github-autoprojrepo
+• TabNews: https://www.tabnews.com.br/trenton/eu-gosto-de-programar
+• TabNews: https://www.tabnews.com.br/KerubinDev/como-vamos-definir-os-novos-devs-seniors
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep017-20260816</guid>
+      <pubDate>Sun, 16 Aug 2026 10:13:08 +0000</pubDate>
+      <itunes:duration>00:03:48</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep17_audio.mp3" length="1368720" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 16: Destaques: "O gargalo hoje é saber o que fazer", diz Filipe Lauar, engenheiro de IA na Enter e host do podcast Vida com IA</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
