@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 18: Destaques: 🚀 Instalando Agente Linux OCS Inventory NG 3.0 Rework no Debian 13</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/MartinsecTecnologia/instalando-agente-linux-ocs-inventory-ng-3-0-rework-no-debian-13
+• TabNews: https://www.tabnews.com.br/Junior7i/pixelgen-ml-pra-pixelart-em-typescript-sem-dependencias-cpu-first
+• TabNews: https://www.tabnews.com.br/Dpbm/criando-um-sistema-operacional-quantico
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep018-20260817</guid>
+      <pubDate>Mon, 17 Aug 2026 10:21:43 +0000</pubDate>
+      <itunes:duration>00:04:01</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep18_audio.mp3" length="1449792" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 17: Destaques: Pitch: Criei uma CLI em Shell Script para automatizar o setup completo de repositórios Git/GitHub</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
