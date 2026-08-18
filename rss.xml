@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 19: Destaques: Google DeepMind testa IA médica que analisa vídeo em tempo real</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/google-deepmind-testa-ia-medica
+• Blog Alura: https://www.alura.com.br/artigos/ia-que-traduz-lingua-de-sinais-em-texto
+• Blog Alura: https://www.alura.com.br/artigos/anthropic-ira-marcar-textos-de-ia-do-claude-com-marca-dagua-invisivel
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep019-20260818</guid>
+      <pubDate>Tue, 18 Aug 2026 10:17:49 +0000</pubDate>
+      <itunes:duration>00:03:54</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep19_audio.mp3" length="1409472" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 18: Destaques: 🚀 Instalando Agente Linux OCS Inventory NG 3.0 Rework no Debian 13</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
