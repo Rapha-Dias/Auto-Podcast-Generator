@@ -1,5 +1,38 @@
 [
   {
+    "id": 20,
+    "guid": "podcast-ep020-20260819",
+    "title": "Ep 20: Destaques: Data Quality: o que é e como garantir dados confiáveis",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/qualidades-dos-dados\n• TabNews: https://www.tabnews.com.br/AlefSantos/web-scraping-eficiente-do-headless-browser-as-apis-ocultas\n• TabNews: https://www.tabnews.com.br/LucasLuchetta/fiz-um-app-pra-parar-de-matar-minhas-plantas-e-resolvi-compartilhar\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep20_audio.mp3",
+    "audio_bytes": 1355040,
+    "pubDate": "Wed, 19 Aug 2026 10:18:34 +0000",
+    "duration": "00:03:45",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: DATA QUALITY: O QUE É E COMO GARANTIR DADOS CONFIÁVEIS\nTico: Tech, hoje vamos conversar sobre Data Quality: o que é e como garantir dados confiáveis. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Data Quality: o que é e como garantir dados confiáveis, vale a pena usar uma analogia do cotidiano. Entenda o que é Data Quality: dimensões, como medir, passos para montar um programa de qualidade de dados e o impacto em BI e IA. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: WEB SCRAPING EFICIENTE: DO HEADLESS BROWSER ÀS APIS OCULTAS\nTico: Tech, hoje vamos conversar sobre Web Scraping eficiente: Do Headless Browser às APIs ocultas. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Web Scraping eficiente: Do Headless Browser às APIs ocultas, vale a pena usar uma analogia do cotidiano. Quando você decide criar um agregador de dados em tempo real, a primeira ideia que vem à cabeça para coletar informações de grandes plataformas é: \"Vou subir um Puppeteer, simular cliques... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PITCH: FIZ UM APP PRA PARAR DE MATAR MINHAS PLANTAS\nTico: Tech, hoje vamos conversar sobre Pitch: Fiz um app pra parar de matar minhas plantas. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Fiz um app pra parar de matar minhas plantas, vale a pena usar uma analogia do cotidiano. Testei uns apps de lembrete de rega, mas todos queriam cadastro, empurravam assinatura ou enchiam de anúncio só pra eu lembrar de dar água numa planta. Resolvi fazer o meu. A ideia é simp... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/qualidades-dos-dados"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/AlefSantos/web-scraping-eficiente-do-headless-browser-as-apis-ocultas"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/LucasLuchetta/fiz-um-app-pra-parar-de-matar-minhas-plantas-e-resolvi-compartilhar"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep20_audio.mp3"
+  },
+  {
     "id": 19,
     "guid": "podcast-ep019-20260818",
     "title": "Ep 19: Destaques: Google DeepMind testa IA médica que analisa vídeo em tempo real",
