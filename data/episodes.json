@@ -1,5 +1,38 @@
 [
   {
+    "id": 21,
+    "guid": "podcast-ep021-20260820",
+    "title": "Ep 21: Destaques: Tipos de agentes de IA: exemplos práticos e ferramentas",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia\n• TabNews: https://www.tabnews.com.br/gracefullight/oh-my-agent-refactor-guards-cross-vendor-e-avaliacao-isolada\n• TabNews: https://www.tabnews.com.br/lzocateli/como-publicar-uma-biblioteca-net-no-nuget-org\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep21_audio.mp3",
+    "audio_bytes": 1406160,
+    "pubDate": "Thu, 20 Aug 2026 10:19:35 +0000",
+    "duration": "00:03:54",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: TIPOS DE AGENTES DE IA: EXEMPLOS PRÁTICOS E FERRAMENTAS\nTico: Tech, hoje vamos conversar sobre Tipos de agentes de IA: exemplos práticos e ferramentas. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Tipos de agentes de IA: exemplos práticos e ferramentas, vale a pena usar uma analogia do cotidiano. Entenda os diferentes tipos de agentes de IA, veja exemplos práticos do dia a dia e descubra as principais ferramentas para criar sistemas inteligentes. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: OH-MY-AGENT: REFACTOR GUARDS CROSS-VENDOR E AVALIAÇÃO ISOLADA\nTico: Tech, hoje vamos conversar sobre oh-my-agent: refactor guards cross-vendor e avaliação isolada. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender oh-my-agent: refactor guards cross-vendor e avaliação isolada, vale a pena usar uma analogia do cotidiano. O oh-my-agent 12.4.0 acaba de receber um refactor guard cross-vendor e avaliação isolada de harness. Quando um agent edita linhas demais em um único arquivo sem refatorar, o runtime agora... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: COMO PUBLICAR UMA BIBLIOTECA .NET NO NUGET.ORG\nTico: Tech, hoje vamos conversar sobre Como Publicar uma Biblioteca .NET no NuGet.org. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como Publicar uma Biblioteca .NET no NuGet.org, vale a pena usar uma analogia do cotidiano. Introdução# Publicar uma biblioteca .NET no NuGet.org não é apenas empacotar um projeto e enviar o .nupkg para o servidor. O ponto mais importante é tratar a API pública como um contrato... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/exemplos-de-agentes-de-ia"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/gracefullight/oh-my-agent-refactor-guards-cross-vendor-e-avaliacao-isolada"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/lzocateli/como-publicar-uma-biblioteca-net-no-nuget-org"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep21_audio.mp3"
+  },
+  {
     "id": 20,
     "guid": "podcast-ep020-20260819",
     "title": "Ep 20: Destaques: Data Quality: o que é e como garantir dados confiáveis",
