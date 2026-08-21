@@ -1,5 +1,38 @@
 [
   {
+    "id": 22,
+    "guid": "podcast-ep022-20260821",
+    "title": "Ep 22: Destaques: 8 ferramentas de IA para pesquisa científica e como usar",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/ia-para-pesquisa-cientifica\n• TabNews: https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux\n• TabNews: https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep22_audio.mp3",
+    "audio_bytes": 1488672,
+    "pubDate": "Fri, 21 Aug 2026 10:19:52 +0000",
+    "duration": "00:04:08",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: 8 FERRAMENTAS DE IA PARA PESQUISA CIENTÍFICA E COMO USAR\nTico: Tech, hoje vamos conversar sobre 8 ferramentas de IA para pesquisa científica e como usar. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender 8 ferramentas de IA para pesquisa científica e como usar, vale a pena usar uma analogia do cotidiano. Conheça 8 ferramentas de IA para pesquisa científica, como escolher a certa, casos reais, cuidados éticos e como citar IA no seu trabalho. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: DESVENDEI O CÓDIGO DO ELIFOOT 98 APÓS 25 ANOS: ENGENHARIA REVERSA EM 16-BIT COM GHIDRA NO LINUX\nTico: Tech, hoje vamos conversar sobre Desvendei o código do Elifoot 98 após 25 anos: Engenharia reversa em 16-bit com Ghidra no Linux. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Desvendei o código do Elifoot 98 após 25 anos: Engenharia reversa em 16-bit com Ghidra no Linux, vale a pena usar uma analogia do cotidiano. Quem cresceu nos anos 90 e 2000 certamente se lembra de passar horas na frente do PC jogando Elifoot 98. Por mais de duas décadas, circularam em fóruns de internet dezenas de mitos e teor... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: CONSTRUÍ UM CLIENTE DE DISCORD NATIVO EM RUST QUE USA APENAS ~30MB DE RAM\nTico: Tech, hoje vamos conversar sobre Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Construí um cliente de Discord nativo em Rust que usa apenas ~30MB de RAM, vale a pena usar uma analogia do cotidiano. Fala pessoal do TabNews! 👋 Se você joga no PC ou trabalha com várias abas e ferramentas pesadas abertas ao mesmo tempo, provavelmente já passou por isso: abrir o Discord oficial só para c... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/ia-para-pesquisa-cientifica"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep22_audio.mp3"
+  },
+  {
     "id": 21,
     "guid": "podcast-ep021-20260820",
     "title": "Ep 21: Destaques: Tipos de agentes de IA: exemplos práticos e ferramentas",

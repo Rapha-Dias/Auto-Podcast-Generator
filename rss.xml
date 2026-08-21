@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 22: Destaques: 8 ferramentas de IA para pesquisa científica e como usar</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/ia-para-pesquisa-cientifica
+• TabNews: https://www.tabnews.com.br/trsthales/desvendei-o-codigo-do-elifoot-98-apos-25-anos-engenharia-reversa-em-16-bit-com-ghidra-no-linux
+• TabNews: https://www.tabnews.com.br/Ak4ai/construi-um-cliente-de-discord-nativo-em-rust-que-usa-apenas-30mb-de-ram-e-0-1-por-cento-de-cpu
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep022-20260821</guid>
+      <pubDate>Fri, 21 Aug 2026 10:19:52 +0000</pubDate>
+      <itunes:duration>00:04:08</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep22_audio.mp3" length="1488672" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 21: Destaques: Tipos de agentes de IA: exemplos práticos e ferramentas</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
