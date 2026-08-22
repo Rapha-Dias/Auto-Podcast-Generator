@@ -15,6 +15,25 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 23: Destaques: Contexto é arquitetura de informação, trate seu agente como um humano</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano
+• TabNews: https://www.tabnews.com.br/thallisribeiro/to-criando-uma-agencia-so-com-ia-mas-ta-dando-tudo-errado
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep023-20260822</guid>
+      <pubDate>Sat, 22 Aug 2026 10:13:04 +0000</pubDate>
+      <itunes:duration>00:02:41</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep23_audio.mp3" length="971424" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 22: Destaques: 8 ferramentas de IA para pesquisa científica e como usar</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

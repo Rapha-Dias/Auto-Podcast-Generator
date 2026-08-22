@@ -1,5 +1,34 @@
 [
   {
+    "id": 23,
+    "guid": "podcast-ep023-20260822",
+    "title": "Ep 23: Destaques: Contexto é arquitetura de informação, trate seu agente como um humano",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano\n• TabNews: https://www.tabnews.com.br/thallisribeiro/to-criando-uma-agencia-so-com-ia-mas-ta-dando-tudo-errado\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep23_audio.mp3",
+    "audio_bytes": 971424,
+    "pubDate": "Sat, 22 Aug 2026 10:13:04 +0000",
+    "duration": "00:02:41",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: CONTEXTO É ARQUITETURA DE INFORMAÇÃO, TRATE SEU AGENTE COMO UM HUMANO\nTico: Tech, hoje vamos conversar sobre Contexto é arquitetura de informação, trate seu agente como um humano. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Contexto é arquitetura de informação, trate seu agente como um humano, vale a pena usar uma analogia do cotidiano. A maior parte da frustração com agente de IA vem de um mal-entendido: As pessoas acham que estão escrevendo instrução. Estão projetando o ambiente de trabalho de alguém. Prompt é o pedido... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: TÔ CRIANDO UMA AGÊNCIA SÓ COM IA\nTico: Tech, hoje vamos conversar sobre Tô criando uma agência só com IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Tô criando uma agência só com IA, vale a pena usar uma analogia do cotidiano. Semana passada resolvi contar os squads que criei pra rodar minha agência sozinho: cada um é um time de agentes de IA que deveria fazer um trabalho específico, tipo escrever post, revisar... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/lincolixavier/contexto-e-arquitetura-de-informacao-trate-seu-agente-como-um-humano"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/thallisribeiro/to-criando-uma-agencia-so-com-ia-mas-ta-dando-tudo-errado"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep23_audio.mp3"
+  },
+  {
     "id": 22,
     "guid": "podcast-ep022-20260821",
     "title": "Ep 22: Destaques: 8 ferramentas de IA para pesquisa científica e como usar",
