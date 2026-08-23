@@ -1,5 +1,38 @@
 [
   {
+    "id": 24,
+    "guid": "podcast-ep024-20260823",
+    "title": "Ep 24: Destaques: Requisito que chega em áudio não entra no backlog",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/livialee/requisito-que-chega-em-audio-nao-entra-no-backlog\n• TabNews: https://www.tabnews.com.br/wildrik/parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu\n• TabNews: https://www.tabnews.com.br/trsthales/criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep24_audio.mp3",
+    "audio_bytes": 1454976,
+    "pubDate": "Sun, 23 Aug 2026 10:13:30 +0000",
+    "duration": "00:04:02",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: REQUISITO QUE CHEGA EM ÁUDIO NÃO ENTRA NO BACKLOG\nTico: Tech, hoje vamos conversar sobre Requisito que chega em áudio não entra no backlog. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Requisito que chega em áudio não entra no backlog, vale a pena usar uma analogia do cotidiano. Seis minutos e quarenta e dois segundos. É o tamanho do áudio que chegou no grupo às sete e meia da noite, e dentro dele existe uma mudança de regra de negócio que vai alterar o cálculo d... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: PAREI DE TRATAR HEXAGONAL E CLEAN ARCHITECTURE COMO RIVAIS: A ANALOGIA DA TOMADA RESOLVEU\nTico: Tech, hoje vamos conversar sobre Parei de tratar Hexagonal e Clean Architecture como rivais: a analogia da tomada resolveu. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Parei de tratar Hexagonal e Clean Architecture como rivais: a analogia da tomada resolveu, vale a pena usar uma analogia do cotidiano. Passei anos vendo dev sênior discutir se ia usar \"hexagonal\" ou \"clean\" como se fossem religiões opostas. A real: as duas respondem a mesma pergunta e compartilham o mesmo princípio. Demo... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PITCH: CRIEI O PACTX: UMA FERRAMENTA OPEN SOURCE PARA RESOLVER A AMNÉSIA E PERDA DE CONTEXTO DE IAS EM PROJETOS LONGOS\nTico: Tech, hoje vamos conversar sobre Pitch: Criei o pactx: Uma ferramenta Open Source para resolver a amnésia e perda de contexto de IAs em projetos longos. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Criei o pactx: Uma ferramenta Open Source para resolver a amnésia e perda de contexto de IAs em projetos longos, vale a pena usar uma analogia do cotidiano. Fala pessoal! Trabalhando no desenvolvimento de um projeto educacional de xadrez (o CheckMind Escolar) usando ChatGPT, Claude e Gemini, comecei a bater repetidamente no mesmo gargalo: a p... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/livialee/requisito-que-chega-em-audio-nao-entra-no-backlog"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/wildrik/parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/trsthales/criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep24_audio.mp3"
+  },
+  {
     "id": 23,
     "guid": "podcast-ep023-20260822",
     "title": "Ep 23: Destaques: Contexto é arquitetura de informação, trate seu agente como um humano",

@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 24: Destaques: Requisito que chega em áudio não entra no backlog</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/livialee/requisito-que-chega-em-audio-nao-entra-no-backlog
+• TabNews: https://www.tabnews.com.br/wildrik/parei-de-tratar-hexagonal-e-clean-architecture-como-rivais-a-analogia-da-tomada-resolveu
+• TabNews: https://www.tabnews.com.br/trsthales/criei-o-pactx-uma-ferramenta-open-source-para-resolver-a-amnesia-e-perda-de-contexto-de-ias-em-projetos-longos
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep024-20260823</guid>
+      <pubDate>Sun, 23 Aug 2026 10:13:30 +0000</pubDate>
+      <itunes:duration>00:04:02</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep24_audio.mp3" length="1454976" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 23: Destaques: Contexto é arquitetura de informação, trate seu agente como um humano</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
