@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 27: Destaques: O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/o-ecossistema-de-oci-ai
+• Blog Alura: https://www.alura.com.br/artigos/arquitetura-de-dados-para-ia
+• TabNews: https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep027-20260826</guid>
+      <pubDate>Wed, 26 Aug 2026 10:24:39 +0000</pubDate>
+      <itunes:duration>00:04:26</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep27_audio.mp3" length="1596960" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 26: Destaques: Brasil anuncia pacote de R$ 2,5 bi para IA e supercomputador no RN</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

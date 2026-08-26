@@ -1,5 +1,38 @@
 [
   {
+    "id": 27,
+    "guid": "podcast-ep027-20260826",
+    "title": "Ep 27: Destaques: O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/o-ecossistema-de-oci-ai\n• Blog Alura: https://www.alura.com.br/artigos/arquitetura-de-dados-para-ia\n• TabNews: https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep27_audio.mp3",
+    "audio_bytes": 1596960,
+    "pubDate": "Wed, 26 Aug 2026 10:24:39 +0000",
+    "duration": "00:04:26",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: O ECOSSISTEMA DE OCI AI: TUDO O QUE VOCÊ PRECISA SABER SOBRE IA, ML E DATA SCIENCE\nTico: Tech, hoje vamos conversar sobre O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science, vale a pena usar uma analogia do cotidiano. Entenda como a Oracle Cloud Infrastructure oferece serviços de IA, Machine Learning e IA generativa para criar soluções inteligentes em escala. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: ARQUITETURA DE DADOS PARA IA: UM GUIA PARA CONSTRUIR SOLUÇÕES ESCALÁVEIS E CONFIÁVEIS\nTico: Tech, hoje vamos conversar sobre Arquitetura de dados para IA: um guia para construir soluções escaláveis e confiáveis. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Arquitetura de dados para IA: um guia para construir soluções escaláveis e confiáveis, vale a pena usar uma analogia do cotidiano. Entenda o que é arquitetura de dados para IA, seus principais componentes, modelos, pipelines e boas práticas de governança, segurança e qualidade. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: POR QUE PEDIR PARA A IA \"RESUMIR O CHAT\" É UM PARADOXO MATEMÁTICO: O QUE DESCOBRI ANALISANDO A PERDA DE MEMÓRIA DAS IAS EM PROJETOS LONGOS\nTico: Tech, hoje vamos conversar sobre Por que pedir para a IA \"resumir o chat\" é um paradoxo matemático: o que descobri analisando a perda de memória das IAs em projetos longos. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Por que pedir para a IA \"resumir o chat\" é um paradoxo matemático: o que descobri analisando a perda de memória das IAs em projetos longos, vale a pena usar uma analogia do cotidiano. Fala pessoal! Se você usa ChatGPT, Claude, Gemini ou Cursor para programar projetos que passam de alguns dias de desenvolvimento, com certeza já passou por isso: no começo do chat a IA é... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/o-ecossistema-de-oci-ai"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/arquitetura-de-dados-para-ia"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/trsthales/por-que-pedir-para-a-ia-resumir-o-chat-e-um-paradoxo-matematico-o-que-descobri-analisando-a-perda-de-memoria-das-ias-em-projetos-longos"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep27_audio.mp3"
+  },
+  {
     "id": 26,
     "guid": "podcast-ep026-20260825",
     "title": "Ep 26: Destaques: Brasil anuncia pacote de R$ 2,5 bi para IA e supercomputador no RN",
