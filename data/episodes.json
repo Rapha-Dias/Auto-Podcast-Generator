@@ -1,5 +1,38 @@
 [
   {
+    "id": 28,
+    "guid": "podcast-ep028-20260827",
+    "title": "Ep 28: Destaques: Agentic Engineering: o curso de agentes da Alura + FIAP",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/o-que-e-agentic-engineering\n• Blog Alura: https://www.alura.com.br/artigos/alura-signals-experience\n• Blog Alura: https://www.alura.com.br/artigos/o-que-e-ai-data-strategy\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep28_audio.mp3",
+    "audio_bytes": 1415808,
+    "pubDate": "Thu, 27 Aug 2026 20:03:31 +0000",
+    "duration": "00:03:55",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: AGENTIC ENGINEERING: O CURSO DE AGENTES DA ALURA + FIAP\nTico: Tech, hoje vamos conversar sobre Agentic Engineering: o curso de agentes da Alura + FIAP. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Agentic Engineering: o curso de agentes da Alura + FIAP, vale a pena usar uma analogia do cotidiano. Conheça o Agentic Engineering, curso ao vivo do Skills & Go: ementa das 4 aulas, projeto multiagente, professor e como garantir a vaga. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: ALURA SIGNALS EXPERIENCE: 2 DIAS PARA APRENDER A LER OS SINAIS DA IA\nTico: Tech, hoje vamos conversar sobre Alura Signals Experience: 2 dias para aprender a ler os sinais da IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Alura Signals Experience: 2 dias para aprender a ler os sinais da IA, vale a pena usar uma analogia do cotidiano. Conheça o Alura Signals Experience: dois dias presenciais em São Paulo para ler os sinais da IA com CTOs e lideranças que constroem o futuro. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: AI DATA STRATEGY: O CURSO DE DADOS COM IA DA ALURA + FIAP\nTico: Tech, hoje vamos conversar sobre AI Data Strategy: o curso de dados com IA da Alura + FIAP. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender AI Data Strategy: o curso de dados com IA da Alura + FIAP, vale a pena usar uma analogia do cotidiano. Conheça o AI Data Strategy, curso ao vivo do Skills & Go: o que você aprende, como funciona, projeto prático, professor e como participar. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/o-que-e-agentic-engineering"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/alura-signals-experience"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/o-que-e-ai-data-strategy"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep28_audio.mp3"
+  },
+  {
     "id": 27,
     "guid": "podcast-ep027-20260826",
     "title": "Ep 27: Destaques: O Ecossistema de OCI AI: Tudo o que Você Precisa Saber sobre IA, ML e Data Science",
