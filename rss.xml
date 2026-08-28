@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 29: Destaques: Building AI Products: o curso de produtos com IA da Alura</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/o-que-e-building-ai-products
+• Blog Alura: https://www.alura.com.br/artigos/como-medir-roi-de-ai-data-strategy
+• TabNews: https://www.tabnews.com.br/psacramento/fiz-uma-ferramenta-para-inspecionar-e-tornar-qr-codes-do-pix-mais-privados
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep029-20260828</guid>
+      <pubDate>Fri, 28 Aug 2026 21:02:01 +0000</pubDate>
+      <itunes:duration>00:04:03</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep29_audio.mp3" length="1458432" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 28: Destaques: Agentic Engineering: o curso de agentes da Alura + FIAP</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
