@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 30: Destaques: ''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor", diz Gabriel Pimenta, da Dharma-AI</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai
+• Blog Alura: https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat
+• Blog Alura: https://www.alura.com.br/artigos/especializar-um-modelo-aberto-thiago-laitz-do-sabia
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep030-20260829</guid>
+      <pubDate>Sat, 29 Aug 2026 14:47:57 +0000</pubDate>
+      <itunes:duration>00:04:39</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep30_audio.mp3" length="1674864" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 29: Destaques: Building AI Products: o curso de produtos com IA da Alura</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

@@ -1,5 +1,38 @@
 [
   {
+    "id": 30,
+    "guid": "podcast-ep030-20260829",
+    "title": "Ep 30: Destaques: ''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor\", diz Gabriel Pimenta, da Dharma-AI",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai\n• Blog Alura: https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat\n• Blog Alura: https://www.alura.com.br/artigos/especializar-um-modelo-aberto-thiago-laitz-do-sabia\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep30_audio.mp3",
+    "audio_bytes": 1674864,
+    "pubDate": "Sat, 29 Aug 2026 14:47:57 +0000",
+    "duration": "00:04:39",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: ''SOBERANIA DE IA NÃO É TER CHIP NACIONAL, É PODER TROCAR DE FORNECEDOR\", DIZ GABRIEL PIMENTA, DA DHARMA-AI\nTico: Tech, hoje vamos conversar sobre ''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor\", diz Gabriel Pimenta, da Dharma-AI. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender ''Soberania de IA não é ter chip nacional, é poder trocar de fornecedor\", diz Gabriel Pimenta, da Dharma-AI, vale a pena usar uma analogia do cotidiano. Head de P&amp;D e cofundador da Dharma-AI, startup brasileira especializada em Specialized Small Language Models (SSLMs), Gabriel Pimenta defende que boa parte dos problemas de IA em empresas não exige modelos generalistas gigantes, e sim modelos pequenos treinados para tarefas específicas. Ao Alura Labs, ele explica por que benchmarks tradicionais Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: “SOBERANIA NÃO SE MEDE POR ONDE O SERVIDOR ESTÁ E SIM POR QUANTO CUSTA MUDAR DE IDEIA\", DIZ ANA PAULA APPEL, DA RED HAT\nTico: Tech, hoje vamos conversar sobre “Soberania não se mede por onde o servidor está e sim por quanto custa mudar de ideia\", diz Ana Paula Appel, da Red Hat. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender “Soberania não se mede por onde o servidor está e sim por quanto custa mudar de ideia\", diz Ana Paula Appel, da Red Hat, vale a pena usar uma analogia do cotidiano. Senior AI Specialist Solutions Architect na Red Hat , Ana Paula Appel defende que o maior gargalo na industrialização da IA em empresas não é o modelo, mas a fragmentação organizacional. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: ''ESPECIALIZAR UM MODELO ABERTO QUASE SEMPRE É MAIS BARATO, MAS ISSO NOS DEIXA DEPENDENTES\", DIZ THIAGO LAITZ, DO SABIÁ\nTico: Tech, hoje vamos conversar sobre ''Especializar um modelo aberto quase sempre é mais barato, mas isso nos deixa dependentes\", diz Thiago Laitz, do Sabiá. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender ''Especializar um modelo aberto quase sempre é mais barato, mas isso nos deixa dependentes\", diz Thiago Laitz, do Sabiá, vale a pena usar uma analogia do cotidiano. Research Scientist na Maritaca AI, Thiago Laitz defende que treinar modelos brasileiros do zero não significa competir com os Frontier Labs em todos os benchmarks. O valor está em outros pontos. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/soberania-de-ia-gabriel-pimenta-dharma-ai"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/soberania-nao-se-mede-por-onde-o-servidor-esta-e-sim-por-quanto-custa-mudar-de-ideia-ana-paula-appel-red-hat"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/especializar-um-modelo-aberto-thiago-laitz-do-sabia"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep30_audio.mp3"
+  },
+  {
     "id": 29,
     "guid": "podcast-ep029-20260828",
     "title": "Ep 29: Destaques: Building AI Products: o curso de produtos com IA da Alura",
