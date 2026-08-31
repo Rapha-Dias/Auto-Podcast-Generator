@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 32: Destaques: Framework Laptop 13 Pro</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/jonathanbergson/framework-laptop-13-pro
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/australia-bane-musicas-criadas-por-ia-de-seus-rankings-de-faixas-mais-tocadas-no-pais
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/startup-lanca-ia-capaz-de-gerar-videos-de-5-segundos-em-menos-de-3-segundos
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep032-20260831</guid>
+      <pubDate>Mon, 31 Aug 2026 17:18:05 +0000</pubDate>
+      <itunes:duration>00:03:58</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep32_audio.mp3" length="1433088" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 31: Destaques: A versão de API que vence sem avisar</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
