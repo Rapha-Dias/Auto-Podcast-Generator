@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 34: Destaques: NVIDIA compra Hugging Face por US$ 12,9 bilhões</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/nvidia-compra-hugging-face
+• Blog Alura: https://www.alura.com.br/artigos/como-abrir-claude-code-no-windows
+• Blog Alura: https://www.alura.com.br/artigos/chatgpt-agora-faz-login-em-sites
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep034-20260902</guid>
+      <pubDate>Wed, 02 Sep 2026 13:57:29 +0000</pubDate>
+      <itunes:duration>00:03:40</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep34_audio.mp3" length="1321488" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 33: Destaques: John Ternus assume como CEO da Apple após 15 anos de Tim Cook no comando</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
