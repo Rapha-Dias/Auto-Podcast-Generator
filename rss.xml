@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 35: Destaques: Atualizações da Alura #3: carreiras, eventos e novas comunidades</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/atualizacoes-da-alura-3-carreiras-eventos-e-novas-comunidades
+• Blog Alura: https://www.alura.com.br/artigos/como-otimizar-logica-interna-do-produto-de-ia
+• TabNews: https://www.tabnews.com.br/judhagsan/estou-criando-um-software-de-animacao-2d-do-zero-em-rust-e-vulkan-e-o-curso-dev-teve-papel-nisso
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep035-20260903</guid>
+      <pubDate>Thu, 03 Sep 2026 13:59:23 +0000</pubDate>
+      <itunes:duration>00:03:55</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep35_audio.mp3" length="1410912" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 34: Destaques: NVIDIA compra Hugging Face por US$ 12,9 bilhões</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
