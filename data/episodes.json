@@ -1,5 +1,38 @@
 [
   {
+    "id": 36,
+    "guid": "podcast-ep036-20260904",
+    "title": "Ep 36: Destaques: Agente de IA vs. chatbot: como se relacionam e quando usar cada um",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/agente-de-ia-vs-chatbot-diferencas-usos-e-integracao\n• TabNews: https://www.tabnews.com.br/mrmsoares/cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras\n• TabNews: https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep36_audio.mp3",
+    "audio_bytes": 1493280,
+    "pubDate": "Fri, 04 Sep 2026 13:52:30 +0000",
+    "duration": "00:04:08",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: AGENTE DE IA VS. CHATBOT: COMO SE RELACIONAM E QUANDO USAR CADA UM\nTico: Tech, hoje vamos conversar sobre Agente de IA vs. chatbot: como se relacionam e quando usar cada um. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Agente de IA vs. chatbot: como se relacionam e quando usar cada um, vale a pena usar uma analogia do cotidiano. Entenda as diferenças entre agente de IA e chatbot, veja quando cada um é mais eficaz e como integrá-los para melhorar atendimento e automação. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: CASCADE LAYERS DO CSS: COMO DOMINAR A ESPECIFICIDADE SEM GAMBIARRAS\nTico: Tech, hoje vamos conversar sobre Cascade Layers do CSS: Como Dominar a Especificidade Sem Gambiarras. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Cascade Layers do CSS: Como Dominar a Especificidade Sem Gambiarras, vale a pena usar uma analogia do cotidiano. O problema que !important nunca resolveu Especificidade no CSS funciona como um sistema de pontuação: IDs vencem classes, classes vencem elementos, inline vence tudo. Quando dois seletore... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: TROQUEI SONNET POR QWEN 7B LOCAL EM 3 TAREFAS: BILL DE US$ 47 VIROU R$ 0\nTico: Tech, hoje vamos conversar sobre Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Troquei Sonnet por Qwen 7B local em 3 tarefas: bill de US$ 47 virou R$ 0, vale a pena usar uma analogia do cotidiano. Paguei US$ 47 em Claude Sonnet 4.5 num mês só rodando 3 fluxos de código que eu automatizei no meu harness. R$ 254 pelo dólar PTAX de agosto de 2026 (R$ 5,40). Não é dinheiro que quebra n... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/agente-de-ia-vs-chatbot-diferencas-usos-e-integracao"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/mrmsoares/cascade-layers-do-css-como-dominar-a-especificidade-sem-gambiarras"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/kenimo49/troquei-sonnet-por-qwen-7b-local-em-3-tarefas-bill-de-us-47-virou-r-0-e-2-tarefas-ficaram-melhores"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep36_audio.mp3"
+  },
+  {
     "id": 35,
     "guid": "podcast-ep035-20260903",
     "title": "Ep 35: Destaques: Atualizações da Alura #3: carreiras, eventos e novas comunidades",
