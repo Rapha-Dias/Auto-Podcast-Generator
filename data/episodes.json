@@ -1,5 +1,38 @@
 [
   {
+    "id": 37,
+    "guid": "podcast-ep037-20260905",
+    "title": "Ep 37: Destaques: 🔥 O Melhor da Semana no TabNews #34",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-34\n• TabNews: https://www.tabnews.com.br/alextechbr/pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt\n• TabNews: https://www.tabnews.com.br/coeleodev/pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep37_audio.mp3",
+    "audio_bytes": 1391760,
+    "pubDate": "Sat, 05 Sep 2026 13:06:01 +0000",
+    "duration": "00:03:51",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: 🔥 O MELHOR DA SEMANA NO TABNEWS #34\nTico: Tech, hoje vamos conversar sobre 🔥 O Melhor da Semana no TabNews #34. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender 🔥 O Melhor da Semana no TabNews #34, vale a pena usar uma analogia do cotidiano. Semana de 30/08 a 05/09 Este é o seu Digest Semanal, um apanhado dos posts mais com mais TabCoins que surgiram nos últimos 7 dias. Se você não consegue acompanhar o TabNews todo dia, esta... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: PITCH: QUEM CONSTRÓI COM IA AINDA PRECISA LEMBRAR TERMOS TÉCNICOS DEPOIS DO PROMPT?\nTico: Tech, hoje vamos conversar sobre Pitch: quem constrói com IA ainda precisa lembrar termos técnicos depois do prompt?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: quem constrói com IA ainda precisa lembrar termos técnicos depois do prompt?, vale a pena usar uma analogia do cotidiano. Tenho percebido uma coisa enquanto uso IA para construir software: resolver a dúvida na hora e realmente reconhecer aquele termo depois são problemas diferentes. ChatGPT, Claude, Cursor e... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: COMO VOCÊS ESTRUTURAM A COBRANÇA POR USO ?\nTico: Tech, hoje vamos conversar sobre Como vocês estruturam a cobrança por uso ?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como vocês estruturam a cobrança por uso ?, vale a pena usar uma analogia do cotidiano. Estou construindo um projeto focado em facilitar a cobrança baseada em uso (usage-based billing) e queria entender como a comunidade resolve isso em produção hoje com os gateways tradicio... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-34"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/alextechbr/pitch-quem-constroi-com-ia-ainda-precisa-lembrar-termos-tecnicos-depois-do-prompt"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/coeleodev/pesquisa-como-voces-estruturam-a-cobranca-por-uso-saas-apis"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep37_audio.mp3"
+  },
+  {
     "id": 36,
     "guid": "podcast-ep036-20260904",
     "title": "Ep 36: Destaques: Agente de IA vs. chatbot: como se relacionam e quando usar cada um",
