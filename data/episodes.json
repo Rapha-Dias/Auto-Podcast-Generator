@@ -1,5 +1,38 @@
 [
   {
+    "id": 38,
+    "guid": "podcast-ep038-20260906",
+    "title": "Ep 38: Destaques: Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/wellingtonpragidi/como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma\n• TabNews: https://www.tabnews.com.br/RodrigoSchioMuniz/me-ajude-com-duas-issues-relacionadas-a-front-end\n• TabNews: https://www.tabnews.com.br/ktfth/motor-de-renda-variavel-didatico\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep38_audio.mp3",
+    "audio_bytes": 1368288,
+    "pubDate": "Sun, 06 Sep 2026 13:17:32 +0000",
+    "duration": "00:03:48",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: COMO UTILIZAR O TABNEWS COMO DEVLOG PARA PROJETOS OPEN SOURCE SEM FERIR AS REGRAS DA PLATAFORMA?\nTico: Tech, hoje vamos conversar sobre Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?, vale a pena usar uma analogia do cotidiano. Olá, pessoal (e atenção especial ao @filipedeschamps se puder opinar sobre o assunto). Sou o Wellington, mantenedor do Opus Core (um gerenciador web em PHP nativo focado em performance, c... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: ME AJUDE COM DUAS ISSUES RELACIONADAS A FRONT-END\nTico: Tech, hoje vamos conversar sobre Me ajude com duas ISSUES relacionadas a front-end. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Me ajude com duas ISSUES relacionadas a front-end, vale a pena usar uma analogia do cotidiano. Meu código não está bem organizado. É um projeto grande com muitos desdobramentos e muita história. Nem tudo está bem documentado. É um projeto sem caixa/tesouraria/contabilidade ainda. H... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PITCH: MOTOR DE RENDA VARIAVEL DIDÁTICO\nTico: Tech, hoje vamos conversar sobre Pitch: Motor de Renda Variavel Didático. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Motor de Renda Variavel Didático, vale a pena usar uma analogia do cotidiano. Construí um projeto didático para estudar, na prática, como poderia ser estruturado o núcleo de um sistema de pós-negociação de renda variável no mercado brasileiro. O projeto é desenvolv... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/wellingtonpragidi/como-utilizar-o-tabnews-como-devlog-para-projetos-open-source-sem-ferir-as-regras-da-plataforma"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/RodrigoSchioMuniz/me-ajude-com-duas-issues-relacionadas-a-front-end"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/ktfth/motor-de-renda-variavel-didatico"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep38_audio.mp3"
+  },
+  {
     "id": 37,
     "guid": "podcast-ep037-20260905",
     "title": "Ep 37: Destaques: 🔥 O Melhor da Semana no TabNews #34",
