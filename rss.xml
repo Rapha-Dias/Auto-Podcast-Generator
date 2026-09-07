@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 39: Destaques: Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/mrmsoares/debugging-mental-como-investigar-bugs-em-javascript-sem-depender-do-console-log
+• TabNews: https://www.tabnews.com.br/kenimo49/confiei-no-claude-3-vieses-da-era-ia-que-peguei
+• TabNews: https://www.tabnews.com.br/engineer/quais-ferramentas-usar-para-o-desenvolvimento-com-ia-gemini
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep039-20260907</guid>
+      <pubDate>Mon, 07 Sep 2026 15:23:32 +0000</pubDate>
+      <itunes:duration>00:04:02</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep39_audio.mp3" length="1456416" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 38: Destaques: Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

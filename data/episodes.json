@@ -1,5 +1,38 @@
 [
   {
+    "id": 39,
+    "guid": "podcast-ep039-20260907",
+    "title": "Ep 39: Destaques: Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/mrmsoares/debugging-mental-como-investigar-bugs-em-javascript-sem-depender-do-console-log\n• TabNews: https://www.tabnews.com.br/kenimo49/confiei-no-claude-3-vieses-da-era-ia-que-peguei\n• TabNews: https://www.tabnews.com.br/engineer/quais-ferramentas-usar-para-o-desenvolvimento-com-ia-gemini\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep39_audio.mp3",
+    "audio_bytes": 1456416,
+    "pubDate": "Mon, 07 Sep 2026 15:23:32 +0000",
+    "duration": "00:04:02",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: DEBUGGING MENTAL: COMO INVESTIGAR BUGS EM JAVASCRIPT SEM DEPENDER DO CONSOLE.LOG\nTico: Tech, hoje vamos conversar sobre Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log, vale a pena usar uma analogia do cotidiano. Um console.log resolve bugs simples. O problema é que bugs simples não são os que consomem horas do seu dia. Quando o estado muda entre dois renders, quando uma promise resolve com valor... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: CONFIEI NO CLAUDE: 3 VIESES DA ERA IA QUE PEGUEI\nTico: Tech, hoje vamos conversar sobre Confiei no Claude: 3 vieses da era IA que peguei. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Confiei no Claude: 3 vieses da era IA que peguei, vale a pena usar uma analogia do cotidiano. Rodei o Claude Code por 3 semanas em modo agente no meu lab caseiro em Tóquio. RTX 4070, um monorepo de uns 40 mil linhas, três projetos paralelos. Deleguei bastante coisa. Achei que esta... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: QUAIS FERRAMENTAS USAR PARA O DESENVOLVIMENTO COM IA?\nTico: Tech, hoje vamos conversar sobre Quais ferramentas usar para o desenvolvimento com IA?. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Quais ferramentas usar para o desenvolvimento com IA?, vale a pena usar uma analogia do cotidiano. Meu desenvolvimento com IA se resume a ficar copiando e colando coisas no GPT web, e a usar o copilot no vscode. Gostaria de saber qual a melhor forma de desenvolver com IA. Quais IDEs eu... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/mrmsoares/debugging-mental-como-investigar-bugs-em-javascript-sem-depender-do-console-log"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/kenimo49/confiei-no-claude-3-vieses-da-era-ia-que-peguei"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/engineer/quais-ferramentas-usar-para-o-desenvolvimento-com-ia-gemini"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep39_audio.mp3"
+  },
+  {
     "id": 38,
     "guid": "podcast-ep038-20260906",
     "title": "Ep 38: Destaques: Como utilizar o TabNews como DevLog para projetos Open Source sem ferir as regras da plataforma?",
