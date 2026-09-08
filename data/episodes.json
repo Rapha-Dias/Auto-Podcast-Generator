@@ -1,5 +1,38 @@
 [
   {
+    "id": 40,
+    "guid": "podcast-ep040-20260908",
+    "title": "Ep 40: Destaques: DexCore Outlook Module: Arquitetura Técnica e Guia de Automação em Massa para Contas Hotmail / Outlook",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/makskho/dexcore-outlook-module-arquitetura-tecnica-e-guia-de-automacao-em-massa-para-contas-hotmail-outlook\n• TabNews: https://www.tabnews.com.br/GiorgioNicolas/construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary\n• TabNews: https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep40_audio.mp3",
+    "audio_bytes": 1542384,
+    "pubDate": "Tue, 08 Sep 2026 13:59:01 +0000",
+    "duration": "00:04:17",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: DEXCORE OUTLOOK MODULE: ARQUITETURA TÉCNICA E GUIA DE AUTOMAÇÃO EM MASSA PARA CONTAS HOTMAIL / OUTLOOK\nTico: Tech, hoje vamos conversar sobre DexCore Outlook Module: Arquitetura Técnica e Guia de Automação em Massa para Contas Hotmail / Outlook. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender DexCore Outlook Module: Arquitetura Técnica e Guia de Automação em Massa para Contas Hotmail / Outlook, vale a pena usar uma analogia do cotidiano. O DexCore Outlook Module é uma ferramenta de automação dedicada para Windows, projetada para preparar, proteger e rotear grandes pools de contas Hotmail e Outlook voltadas para multi-acco... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: `CONSTRUÍ UMA IDE ESPACIAL COM CANVAS INFINITO PARA COORDENAR MÚLTIPLOS AGENTES DE IA — CATENARY`\nTico: Tech, hoje vamos conversar sobre `Construí uma IDE espacial com canvas infinito para coordenar múltiplos agentes de IA — Catenary`. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender `Construí uma IDE espacial com canvas infinito para coordenar múltiplos agentes de IA — Catenary`, vale a pena usar uma analogia do cotidiano. Fala pessoal! Nos últimos meses, comecei a usar ferramentas como Claude Code e agentes autônomos de linha de comando no meu fluxo diário. O ganho de velocidade foi brutal, mas uma dor nov... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: O SANDBOX DA OPENAI ACHAVA QUE GET ERA SÓ LEITURA. UM WIKI DE 25 ANOS DISCORDOU.\nTico: Tech, hoje vamos conversar sobre O sandbox da OpenAI achava que GET era só leitura. Um wiki de 25 anos discordou.. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender O sandbox da OpenAI achava que GET era só leitura. Um wiki de 25 anos discordou., vale a pena usar uma analogia do cotidiano. A regra do sandbox parecia simples: para que os agentes de IA pudessem pesquisar dados na web sem alterar nada no mundo externo, o proxy barrava métodos como POST e PUT, liberando apenas... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/makskho/dexcore-outlook-module-arquitetura-tecnica-e-guia-de-automacao-em-massa-para-contas-hotmail-outlook"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/GiorgioNicolas/construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep40_audio.mp3"
+  },
+  {
     "id": 39,
     "guid": "podcast-ep039-20260907",
     "title": "Ep 39: Destaques: Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log",

@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 40: Destaques: DexCore Outlook Module: Arquitetura Técnica e Guia de Automação em Massa para Contas Hotmail / Outlook</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/makskho/dexcore-outlook-module-arquitetura-tecnica-e-guia-de-automacao-em-massa-para-contas-hotmail-outlook
+• TabNews: https://www.tabnews.com.br/GiorgioNicolas/construi-uma-ide-espacial-com-canvas-infinito-para-coordenar-multiplos-agentes-de-ia-catenary
+• TabNews: https://www.tabnews.com.br/jarbasgouveia/o-sandbox-da-openai-achava-que-get-era-so-leitura-um-wiki-de-25-anos-discordou
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep040-20260908</guid>
+      <pubDate>Tue, 08 Sep 2026 13:59:01 +0000</pubDate>
+      <itunes:duration>00:04:17</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep40_audio.mp3" length="1542384" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 39: Destaques: Debugging Mental: Como Investigar Bugs em JavaScript Sem Depender do Console.log</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
