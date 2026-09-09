@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 41: Destaques: DeepMind: o que é, como funciona e aplicações práticas</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/google-deepmind
+• Blog Alura: https://www.alura.com.br/artigos/a-ia-pode-apoiar-a-decisao-mas-o-julgamento-e-a-responsabilidade-final-permanecem-humanos
+• Blog Alura: https://www.alura.com.br/artigos/openai-lanca-gpt-6-astra-e-supera-claude-fable-em-benchmarks
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep041-20260909</guid>
+      <pubDate>Wed, 09 Sep 2026 14:01:50 +0000</pubDate>
+      <itunes:duration>00:04:10</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep41_audio.mp3" length="1500192" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 40: Destaques: DexCore Outlook Module: Arquitetura Técnica e Guia de Automação em Massa para Contas Hotmail / Outlook</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
