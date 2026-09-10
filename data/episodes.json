@@ -1,5 +1,38 @@
 [
   {
+    "id": 42,
+    "guid": "podcast-ep042-20260910",
+    "title": "Ep 42: Destaques: Alura abre imersão gratuita de engenharia de dados com IA",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao\n• Blog Alura: https://www.alura.com.br/artigos/token-de-ia\n• TabNews: https://www.tabnews.com.br/softbrewers/projeto-para-wereable-de-oratoria\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep42_audio.mp3",
+    "audio_bytes": 1335456,
+    "pubDate": "Thu, 10 Sep 2026 13:56:42 +0000",
+    "duration": "00:03:42",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: ALURA ABRE IMERSÃO GRATUITA DE ENGENHARIA DE DADOS COM IA\nTico: Tech, hoje vamos conversar sobre Alura abre imersão gratuita de engenharia de dados com IA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Alura abre imersão gratuita de engenharia de dados com IA, vale a pena usar uma analogia do cotidiano. Imersão gratuita de Engenharia de Dados com IA da Alura: 14 a 18 de setembro. Construa um pipeline real no Databricks e certificado. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: TOKEN DE IA: O QUE É, COMO FUNCIONA E POR QUE IMPORTA HOJE\nTico: Tech, hoje vamos conversar sobre Token de IA: o que é, como funciona e por que importa hoje. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Token de IA: o que é, como funciona e por que importa hoje, vale a pena usar uma analogia do cotidiano. Descubra o que é o token de IA, como funciona a tokenização e para que serve. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PROJETO PARA WEARABLE DE ORATÓRIA\nTico: Tech, hoje vamos conversar sobre Projeto para wearable de oratória. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Projeto para wearable de oratória, vale a pena usar uma analogia do cotidiano. TLDR https://claude.ai/public/artifacts/2ff70918-2001-4366-9762-9a5054ca0086 Roadmap de Desenvolvimento — Wearable de Condicionamento Aversivo para Oratória Escopo: ESP32 + INMP441 + circ... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/alura-abre-imersao-gratuita-de-imersao"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/token-de-ia"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/softbrewers/projeto-para-wereable-de-oratoria"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep42_audio.mp3"
+  },
+  {
     "id": 41,
     "guid": "podcast-ep041-20260909",
     "title": "Ep 41: Destaques: DeepMind: o que é, como funciona e aplicações práticas",
