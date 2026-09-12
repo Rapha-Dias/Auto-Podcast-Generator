@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 44: Destaques: Como usar IA para revisar código: guia completo de code review</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/como-usar-ia-para-revisar-codigo
+• TabNews: https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-35
+• TabNews: https://www.tabnews.com.br/macnator/como-eliminamos-a-maior-parte-dos-erros-de-agentes-de-ia-em-producao-que-fazem-deploy-com-tres-subsistemas-memoria-vault-e-sonhos
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep044-20260912</guid>
+      <pubDate>Sat, 12 Sep 2026 13:14:26 +0000</pubDate>
+      <itunes:duration>00:04:07</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep44_audio.mp3" length="1484640" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 43: Destaques: Memory Leaks em JavaScript: Diagnóstico, Causas Reais e Correção</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
