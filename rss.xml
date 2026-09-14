@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 46: Destaques: Pitch: Como construí o ViraPropo: arquitetura, Structured Outputs com Gemini, persistência em Postgres e assinatura com hash criptográfico</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/ltisistemas/pitch-como-construi-o-virapropo-arquitetura-structured-outputs-com-gemini-persistencia-em-postgres-e-assinatura-com-hash-criptografico
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/associacao-brasileira-de-telesservicos-pede-que-anatel-mude-regras-de-ferramentas-antispam-das-operadoras
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/agentes-de-ia-da-openai-foram-responsaveis-por-ataque-ao-rubygems-ocorrido-em-maio
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep046-20260914</guid>
+      <pubDate>Mon, 14 Sep 2026 16:02:58 +0000</pubDate>
+      <itunes:duration>00:04:15</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep46_audio.mp3" length="1531440" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 45: Destaques: Hello World com Php e Mysql</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

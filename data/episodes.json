@@ -1,5 +1,38 @@
 [
   {
+    "id": 46,
+    "guid": "podcast-ep046-20260914",
+    "title": "Ep 46: Destaques: Pitch: Como construí o ViraPropo: arquitetura, Structured Outputs com Gemini, persistência em Postgres e assinatura com hash criptográfico",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/ltisistemas/pitch-como-construi-o-virapropo-arquitetura-structured-outputs-com-gemini-persistencia-em-postgres-e-assinatura-com-hash-criptografico\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/associacao-brasileira-de-telesservicos-pede-que-anatel-mude-regras-de-ferramentas-antispam-das-operadoras\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/agentes-de-ia-da-openai-foram-responsaveis-por-ataque-ao-rubygems-ocorrido-em-maio\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep46_audio.mp3",
+    "audio_bytes": 1531440,
+    "pubDate": "Mon, 14 Sep 2026 16:02:58 +0000",
+    "duration": "00:04:15",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: PITCH: COMO CONSTRUÍ O VIRAPROPO: ARQUITETURA, STRUCTURED OUTPUTS COM GEMINI, PERSISTÊNCIA EM POSTGRES E ASSINATURA COM HASH CRIPTOGRÁFICO\nTico: Tech, hoje vamos conversar sobre Pitch: Como construí o ViraPropo: arquitetura, Structured Outputs com Gemini, persistência em Postgres e assinatura com hash criptográfico. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Como construí o ViraPropo: arquitetura, Structured Outputs com Gemini, persistência em Postgres e assinatura com hash criptográfico, vale a pena usar uma analogia do cotidiano. 1. Contexto e Problema Quem atua como desenvolvedor freelancer ou presta serviços de tecnologia conhece bem o gargalo da etapa comercial: gastar horas formatando propostas no Docs/Canva,... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: ASSOCIAÇÃO BRASILEIRA DE TELESSERVIÇOS PEDE QUE ANATEL MUDE REGRAS DE FERRAMENTAS ANTISPAM DAS OPERADORAS\nTico: Tech, hoje vamos conversar sobre Associação Brasileira de Telesserviços pede que Anatel mude regras de ferramentas antispam das operadoras. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Associação Brasileira de Telesserviços pede que Anatel mude regras de ferramentas antispam das operadoras, vale a pena usar uma analogia do cotidiano. A entidade, que representa empresas de telemarketing, critica o uso do CNAE (código que classifica o ramo de atividade das companhias) para bloquear chamadas, alegando que isso pode preju... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: AGENTES DE IA DA OPENAI FORAM RESPONSÁVEIS POR ATAQUE AO RUBYGEMS OCORRIDO EM MAIO\nTico: Tech, hoje vamos conversar sobre Agentes de IA da OpenAI foram responsáveis por ataque ao RubyGems ocorrido em maio. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Agentes de IA da OpenAI foram responsáveis por ataque ao RubyGems ocorrido em maio, vale a pena usar uma analogia do cotidiano. Segundo pesquisadores, os modelos publicaram mais de 2 mil pacotes maliciosos, explorando uma falha do RubyDoc que permitia a execução remota de código nos servidores. Centenas deles tinh... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/ltisistemas/pitch-como-construi-o-virapropo-arquitetura-structured-outputs-com-gemini-persistencia-em-postgres-e-assinatura-com-hash-criptografico"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/associacao-brasileira-de-telesservicos-pede-que-anatel-mude-regras-de-ferramentas-antispam-das-operadoras"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/agentes-de-ia-da-openai-foram-responsaveis-por-ataque-ao-rubygems-ocorrido-em-maio"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep46_audio.mp3"
+  },
+  {
     "id": 45,
     "guid": "podcast-ep045-20260913",
     "title": "Ep 45: Destaques: Hello World com Php e Mysql",
