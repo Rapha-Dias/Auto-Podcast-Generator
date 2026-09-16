@@ -1,5 +1,38 @@
 [
   {
+    "id": 48,
+    "guid": "podcast-ep048-20260916",
+    "title": "Ep 48: Destaques: Proliferação de agentes de IA: entenda o agent sprawl",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/meta-estaria-preparando-oculos-inteligentes-sem-camera-para-contornar-problemas-com-privacidade\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep48_audio.mp3",
+    "audio_bytes": 1451952,
+    "pubDate": "Wed, 16 Sep 2026 14:27:32 +0000",
+    "duration": "00:04:01",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: PROLIFERAÇÃO DE AGENTES DE IA: ENTENDA O AGENT SPRAWL\nTico: Tech, hoje vamos conversar sobre Proliferação de agentes de IA: entenda o agent sprawl. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Proliferação de agentes de IA: entenda o agent sprawl, vale a pena usar uma analogia do cotidiano. Descubra o que é o agent sprawl, por que ocorre e como gerenciar a proliferação de agentes de IA nas organizações com práticas de governança e segurança. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: META ESTARIA PREPARANDO ÓCULOS INTELIGENTES SEM CÂMERA PARA CONTORNAR PROBLEMAS COM PRIVACIDADE\nTico: Tech, hoje vamos conversar sobre Meta estaria preparando óculos inteligentes sem câmera para contornar problemas com privacidade. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Meta estaria preparando óculos inteligentes sem câmera para contornar problemas com privacidade, vale a pena usar uma analogia do cotidiano. O chamado “Luna” contaria com alto-falantes e seis microfones para interação com a IA da empresa, além de hastes menores, deixando o design mais próximo ao de armações convencionais. Os a... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: SPACEX TENTARÁ COLOCAR STARSHIP EM ÓRBITA PELA PRIMEIRA VEZ EM 22 DE SETEMBRO\nTico: Tech, hoje vamos conversar sobre SpaceX tentará colocar Starship em órbita pela primeira vez em 22 de setembro. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender SpaceX tentará colocar Starship em órbita pela primeira vez em 22 de setembro, vale a pena usar uma analogia do cotidiano. O 14º voo de teste do megafoguete planeja implantar 26 satélites Starlink de terceira geração na atual rede de 10 mil satélites de internet da companhia. Se bem-sucedido, será o primeiro... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/proliferacao-de-agentes-de-ia"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/meta-estaria-preparando-oculos-inteligentes-sem-camera-para-contornar-problemas-com-privacidade"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/spacex-tentara-colocar-starship-em-orbita-pela-primeira-vez-em-22-de-setembro"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep48_audio.mp3"
+  },
+  {
     "id": 47,
     "guid": "podcast-ep047-20260915",
     "title": "Ep 47: Destaques: OpenAI pode ter resolvido o problema de Navier-Stokes",
