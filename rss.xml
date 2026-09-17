@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 49: Destaques: Como aprender online: guia prático para estudar com eficácia</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/como-aprender-online
+• TabNews: https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/google-permitira-que-qualquer-agente-de-ia-como-claude-e-openclaw-controle-dispositivos-inteligentes-por-meio-do-google-home
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep049-20260917</guid>
+      <pubDate>Thu, 17 Sep 2026 14:32:02 +0000</pubDate>
+      <itunes:duration>00:04:02</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep49_audio.mp3" length="1453104" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 48: Destaques: Proliferação de agentes de IA: entenda o agent sprawl</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

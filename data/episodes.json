@@ -1,5 +1,38 @@
 [
   {
+    "id": 49,
+    "guid": "podcast-ep049-20260917",
+    "title": "Ep 49: Destaques: Como aprender online: guia prático para estudar com eficácia",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/como-aprender-online\n• TabNews: https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/google-permitira-que-qualquer-agente-de-ia-como-claude-e-openclaw-controle-dispositivos-inteligentes-por-meio-do-google-home\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep49_audio.mp3",
+    "audio_bytes": 1453104,
+    "pubDate": "Thu, 17 Sep 2026 14:32:02 +0000",
+    "duration": "00:04:02",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: COMO APRENDER ONLINE: GUIA PRÁTICO PARA ESTUDAR COM EFICÁCIA\nTico: Tech, hoje vamos conversar sobre Como aprender online: guia prático para estudar com eficácia. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Como aprender online: guia prático para estudar com eficácia, vale a pena usar uma analogia do cotidiano. Descubra estratégias práticas para aprender online, pesquisar conteúdos, escolher cursos de qualidade e maximizar seu aproveitamento. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: UX ANALYSIS: INDO ALÉM DA CONSTRUÇÃO DE TELAS COMO DEV FRONTEND\nTico: Tech, hoje vamos conversar sobre UX analysis: indo além da construção de telas como dev frontend. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender UX analysis: indo além da construção de telas como dev frontend, vale a pena usar uma analogia do cotidiano. Fala galera do frontend! Só de boas? Hoje quero trazer um assunto que já me rendeu destaque dentro de equipes por mais de uma vez sendo dev frontend: análise de experiência de usuário (UX... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: GOOGLE PERMITIRÁ QUE QUALQUER AGENTE DE IA, COMO CLAUDE E OPENCLAW, CONTROLE DISPOSITIVOS INTELIGENTES POR MEIO DO GOOGLE HOME\nTico: Tech, hoje vamos conversar sobre Google permitirá que qualquer agente de IA, como Claude e OpenClaw, controle dispositivos inteligentes por meio do Google Home. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Google permitirá que qualquer agente de IA, como Claude e OpenClaw, controle dispositivos inteligentes por meio do Google Home, vale a pena usar uma analogia do cotidiano. O Home MCP possibilita que esses sistemas tenham acesso a aparelhos como lâmpadas, câmeras e fechaduras. A tecnologia proíbe ações sensíveis, como o destravamento de portas, mas a empresa... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/como-aprender-online"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/ArthurBorba/ux-analysis-indo-alem-da-construcao-de-telas-como-dev-frontend"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/google-permitira-que-qualquer-agente-de-ia-como-claude-e-openclaw-controle-dispositivos-inteligentes-por-meio-do-google-home"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep49_audio.mp3"
+  },
+  {
     "id": 48,
     "guid": "podcast-ep048-20260916",
     "title": "Ep 48: Destaques: Proliferação de agentes de IA: entenda o agent sprawl",
