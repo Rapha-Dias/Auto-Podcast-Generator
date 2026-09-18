@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 50: Destaques: Claude Cowork: O que é, como funciona e como usar o agente de IA da Anthropic</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• Blog Alura: https://www.alura.com.br/artigos/claude-cowork-o-que-e
+• TabNews: https://www.tabnews.com.br/kenimo49/agentic-rag-em-producao-o-agente-decide-4-vezes-na-mesma-pergunta-alucinacao-cai-3x-custo-dobra
+• TabNews: https://www.tabnews.com.br/NdDaniel/como-recuperar-o-historico-de-conversas-no-google-antigravity-ide-engenharia-reversa-misterio-do-plano-e-solucoes-prontas
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep050-20260918</guid>
+      <pubDate>Fri, 18 Sep 2026 13:58:13 +0000</pubDate>
+      <itunes:duration>00:04:04</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep50_audio.mp3" length="1469664" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 49: Destaques: Como aprender online: guia prático para estudar com eficácia</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
