@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 52: Destaques: JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/andersonlimadev/jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway
+• TabNews: https://www.tabnews.com.br/weydub/por-que-remover-legendas-embutidas-vem-antes-da-localizacao-de-videos
+• TabNews: https://www.tabnews.com.br/jonwlf/pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep052-20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 13:48:51 +0000</pubDate>
+      <itunes:duration>00:04:04</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep52_audio.mp3" length="1469232" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 51: Destaques: Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

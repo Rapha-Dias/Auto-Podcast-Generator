@@ -1,5 +1,38 @@
 [
   {
+    "id": 52,
+    "guid": "podcast-ep052-20260920",
+    "title": "Ep 52: Destaques: JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/andersonlimadev/jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway\n• TabNews: https://www.tabnews.com.br/weydub/por-que-remover-legendas-embutidas-vem-antes-da-localizacao-de-videos\n• TabNews: https://www.tabnews.com.br/jonwlf/pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep52_audio.mp3",
+    "audio_bytes": 1469232,
+    "pubDate": "Sun, 20 Sep 2026 13:48:51 +0000",
+    "duration": "00:04:04",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: JEV NA PRÁTICA: DECISÕES TIPADAS EM FASTAPI PELO VERCEL AI GATEWAY\nTico: Tech, hoje vamos conversar sobre JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway, vale a pena usar uma analogia do cotidiano. English summary: A production-minded walkthrough of using TypeSafe AI's JEV through Vercel AI Gateway to triage support tickets in a FastAPI vertical slice. It covers typed Choice, Score,... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: LOCALIZAÇÃO DE VÍDEOS: PRESERVE A TRANSCRIÇÃO ANTES DE APAGAR A LEGENDA\nTico: Tech, hoje vamos conversar sobre Localização de vídeos: preserve a transcrição antes de apagar a legenda. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Localização de vídeos: preserve a transcrição antes de apagar a legenda, vale a pena usar uma analogia do cotidiano. Transparência: esta publicação é da equipe Weydub e foi redigida com assistência de IA. O objetivo é explicar decisões de fluxo e limitações, não apresentar um teste independente do produ... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: VÍDEO DIRECT - GERADOR DE VÍDEOS DE CHATS 'FAKE' ESTILO DIRECT DO INSTA\nTico: Tech, hoje vamos conversar sobre Vídeo Direct - Gerador de Vídeos de Chats 'fake' estilo Direct do Insta. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Vídeo Direct - Gerador de Vídeos de Chats 'fake' estilo Direct do Insta, vale a pena usar uma analogia do cotidiano. Fala galera, blz? Tempos atrás vi um user do X (https://x.com/bielgga) usar uma estratégia de marketing orgânico que parece dar muito certo: vídeos fake de conversas estilo direct do inst... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/andersonlimadev/jev-na-pratica-decisoes-tipadas-em-fastapi-pelo-vercel-ai-gateway"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/weydub/por-que-remover-legendas-embutidas-vem-antes-da-localizacao-de-videos"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/jonwlf/pitch-video-direct-gerador-de-videos-de-chats-fake-estilo-direct-do-insta-dm"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep52_audio.mp3"
+  },
+  {
     "id": 51,
     "guid": "podcast-ep051-20260919",
     "title": "Ep 51: Destaques: Alura no Vale do Silício: 5 aprendizados sobre inovação, IA e tecnologia",
