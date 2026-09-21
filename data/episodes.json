@@ -1,5 +1,38 @@
 [
   {
+    "id": 53,
+    "guid": "podcast-ep053-20260921",
+    "title": "Ep 53: Destaques: Pitch: User PDF e os limites de converter aparência em texto editável",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/userpdf/pitch-user-pdf-e-os-limites-de-converter-aparencia-em-texto-editavel\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/anthropic-revela-que-opera-laboratorio-de-biologia-nos-eua\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep53_audio.mp3",
+    "audio_bytes": 1434096,
+    "pubDate": "Mon, 21 Sep 2026 16:05:15 +0000",
+    "duration": "00:03:59",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: PITCH: USER PDF E OS LIMITES DE CONVERTER APARÊNCIA EM TEXTO EDITÁVEL\nTico: Tech, hoje vamos conversar sobre Pitch: User PDF e os limites de converter aparência em texto editável. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: User PDF e os limites de converter aparência em texto editável, vale a pena usar uma analogia do cotidiano. Sou Felipe, responsável pelo User PDF. Estou divulgando meu projeto e compartilhando duas decisões que surgiram ao transformar operações com documentos em uma aplicação web. Aparência e e... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: GOOGLE REVELA QUE GEMINI INVADIU AUTONOMAMENTE TRÊS EMPRESAS DURANTE TESTES DE CIBERSEGURANÇA\nTico: Tech, hoje vamos conversar sobre Google revela que Gemini invadiu autonomamente três empresas durante testes de cibersegurança. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Google revela que Gemini invadiu autonomamente três empresas durante testes de cibersegurança, vale a pena usar uma analogia do cotidiano. As invasões ocorreram em julho. Em um dos casos, o modelo tentou diferentes senhas até conseguir acesso, enquanto nos outros dois encontrou credenciais em um repositório público. O Google... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: ANTHROPIC REVELA QUE OPERA LABORATÓRIO DE BIOLOGIA NOS EUA\nTico: Tech, hoje vamos conversar sobre Anthropic revela que opera laboratório de biologia nos EUA. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Anthropic revela que opera laboratório de biologia nos EUA, vale a pena usar uma analogia do cotidiano. Segundo a empresa, o espaço permite usar seus modelos para conduzir testes no mundo real, combinando pesquisa própria com a colaboração de parceiros externos. A companhia não detalhou os... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/userpdf/pitch-user-pdf-e-os-limites-de-converter-aparencia-em-texto-editavel"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/google-revela-que-gemini-invadiu-autonomamente-tres-empresas-durante-testes-de-ciberseguranca"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/anthropic-revela-que-opera-laboratorio-de-biologia-nos-eua"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep53_audio.mp3"
+  },
+  {
     "id": 52,
     "guid": "podcast-ep052-20260920",
     "title": "Ep 52: Destaques: JEV na prática: decisões tipadas em FastAPI pelo Vercel AI Gateway",
