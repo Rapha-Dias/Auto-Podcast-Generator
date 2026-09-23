@@ -1,5 +1,38 @@
 [
   {
+    "id": 55,
+    "guid": "podcast-ep055-20260923",
+    "title": "Ep 55: Destaques: Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• Blog Alura: https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk\n• Blog Alura: https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/a16z-empresa-de-capital-de-risco-lancara-instituicao-de-ensino-presencial-nos-eua-sem-diploma-e-dever-de-casa-com-objetivo-de-aproximar-jovens-de-startups\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep55_audio.mp3",
+    "audio_bytes": 1570176,
+    "pubDate": "Wed, 23 Sep 2026 14:32:04 +0000",
+    "duration": "00:04:21",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: DARIO AMODEI PROPÕE DESACELERAR IA E RECEBE APOIO DE ALTMAN E MUSK\nTico: Tech, hoje vamos conversar sobre Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk, vale a pena usar uma analogia do cotidiano. Dario Amodei propõe desacelerar avanço da IA com avaliadores independentes. Sam Altman e Elon Musk apoiam; Donald Trump rejeita novas salvaguardas. Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: EMPRESA TYPESAFE AI SAI DO STEALTH E FAZ BARULHO COM MODELO JEV\nTico: Tech, hoje vamos conversar sobre Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Empresa TypeSafe AI sai do stealth e faz barulho com modelo Jev, vale a pena usar uma analogia do cotidiano. Jev é modelo de IA da TypeSafe que toma decisões estruturadas para softwares, devolvendo valores tipados em vez de texto, com latência baixa e custo Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: A16Z, EMPRESA DE CAPITAL DE RISCO, LANÇARÁ INSTITUIÇÃO DE ENSINO PRESENCIAL NOS EUA SEM DIPLOMA E DEVER DE CASA, COM OBJETIVO DE APROXIMAR JOVENS DE STARTUPS DO VALE DO SILÍCIO\nTico: Tech, hoje vamos conversar sobre a16z, empresa de capital de risco, lançará instituição de ensino presencial nos EUA sem diploma e dever de casa, com objetivo de aproximar jovens de startups do Vale do Silício. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender a16z, empresa de capital de risco, lançará instituição de ensino presencial nos EUA sem diploma e dever de casa, com objetivo de aproximar jovens de startups do Vale do Silício, vale a pena usar uma analogia do cotidiano. A Andreessen Academy terá parceiros como Anthropic, Google, Meta, Nvidia, OpenAI, Replit e Stripe. A iniciativa substituirá o ensino tradicional por aulas curtas com nomes do setor, como... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/dario-amodei-propoe-desacelerar-ia-e-recebe-apoio-de-altman-e-musk"
+      ],
+      [
+        "Blog Alura",
+        "https://www.alura.com.br/artigos/empresa-typesafe-ai-sai-do-stealth-e-faz-barulho-com-modelo-jev"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/a16z-empresa-de-capital-de-risco-lancara-instituicao-de-ensino-presencial-nos-eua-sem-diploma-e-dever-de-casa-com-objetivo-de-aproximar-jovens-de-startups"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep55_audio.mp3"
+  },
+  {
     "id": 54,
     "guid": "podcast-ep054-20260922",
     "title": "Ep 54: Destaques: Diferentes modelos para cada situação.",
