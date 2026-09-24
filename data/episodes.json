@@ -1,5 +1,38 @@
 [
   {
+    "id": 56,
+    "guid": "podcast-ep056-20260924",
+    "title": "Ep 56: Destaques: ChatGPT Voice recebe três melhorias",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/chatgpt-voice-recebe-tres-melhorias\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/anthropic-afirma-ter-descoberto-em-seu-laboratorio-de-biologia-um-sistema-enzimatico-inedito\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/discord-atualiza-globalmente-seu-sistema-de-verificacao-de-idade-que-agora-estima-automaticamente-a-faixa-etaria-dos-usuarios\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep56_audio.mp3",
+    "audio_bytes": 1465200,
+    "pubDate": "Thu, 24 Sep 2026 14:31:03 +0000",
+    "duration": "00:04:04",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: CHATGPT VOICE RECEBE TRÊS MELHORIAS\nTico: Tech, hoje vamos conversar sobre ChatGPT Voice recebe três melhorias. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender ChatGPT Voice recebe três melhorias, vale a pena usar uma analogia do cotidiano. O recurso agora pode utilizar os modelos GPT-6 Astra, Sol e Luna; plugins passam a funcionar em conversas por voz, com integrações como e-mail, calendário e Slack; e a ferramenta também p... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: ANTHROPIC AFIRMA TER DESCOBERTO EM SEU LABORATÓRIO DE BIOLOGIA UM SISTEMA ENZIMÁTICO INÉDITO\nTico: Tech, hoje vamos conversar sobre Anthropic afirma ter descoberto em seu laboratório de biologia um sistema enzimático inédito. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Anthropic afirma ter descoberto em seu laboratório de biologia um sistema enzimático inédito, vale a pena usar uma analogia do cotidiano. Segundo a empresa, trata-se de um mecanismo escondido no DNA de bacteriófagos, vírus que infectam e se replicam dentro de bactérias, capaz de realizar operações como cortar, copiar e cola... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: DISCORD ATUALIZA GLOBALMENTE SEU SISTEMA DE VERIFICAÇÃO DE IDADE, QUE AGORA ESTIMA AUTOMATICAMENTE A FAIXA ETÁRIA DOS USUÁRIOS\nTico: Tech, hoje vamos conversar sobre Discord atualiza globalmente seu sistema de verificação de idade, que agora estima automaticamente a faixa etária dos usuários. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Discord atualiza globalmente seu sistema de verificação de idade, que agora estima automaticamente a faixa etária dos usuários, vale a pena usar uma analogia do cotidiano. Segundo a empresa, a tecnologia não analisa publicações, mensagens nem chamadas de voz, mas utiliza metadados da conta, métricas de engajamento, informações do dispositivo e dados sobre a... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/chatgpt-voice-recebe-tres-melhorias"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/anthropic-afirma-ter-descoberto-em-seu-laboratorio-de-biologia-um-sistema-enzimatico-inedito"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/discord-atualiza-globalmente-seu-sistema-de-verificacao-de-idade-que-agora-estima-automaticamente-a-faixa-etaria-dos-usuarios"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep56_audio.mp3"
+  },
+  {
     "id": 55,
     "guid": "podcast-ep055-20260923",
     "title": "Ep 55: Destaques: Dario Amodei propõe desacelerar IA e recebe apoio de Altman e Musk",
