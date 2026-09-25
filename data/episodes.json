@@ -1,5 +1,38 @@
 [
   {
+    "id": 57,
+    "guid": "podcast-ep057-20260925",
+    "title": "Ep 57: Destaques: Microsoft lança “super aplicativo” do Copilot que reúne chat, programação, agentes de IA e Office",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/desenvolvedores-conseguem-fazer-agente-de-ia-muse-da-meta-baixar-todo-o-conteudo-do-sistema-de-arquivos-da-maquina-virtual-onde-estava-sendo-executado\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/acao-coletiva-nos-eua-pede-indenizacao-da-openai-sob-alegacao-de-que-a-empresa-estaria-enviando-conversas-de-usuarios-com-chatgpt-a-revisores-externos-sem-aviso\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep57_audio.mp3",
+    "audio_bytes": 1679616,
+    "pubDate": "Fri, 25 Sep 2026 14:51:25 +0000",
+    "duration": "00:04:39",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: MICROSOFT LANÇA “SUPER APLICATIVO” DO COPILOT QUE REÚNE CHAT, PROGRAMAÇÃO, AGENTES DE IA E OFFICE\nTico: Tech, hoje vamos conversar sobre Microsoft lança “super aplicativo” do Copilot que reúne chat, programação, agentes de IA e Office. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Microsoft lança “super aplicativo” do Copilot que reúne chat, programação, agentes de IA e Office, vale a pena usar uma analogia do cotidiano. A novidade inclui as seções Home, para conversas; Code, para criação de aplicativos e ferramentas; e Autopilot, voltada à automação de tarefas. Code será disponibilizado no fim do mês a p... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: DESENVOLVEDORES CONSEGUEM FAZER AGENTE DE IA MUSE, DA META, BAIXAR TODO O CONTEÚDO DO SISTEMA DE ARQUIVOS DA MÁQUINA VIRTUAL ONDE ESTAVA SENDO EXECUTADO\nTico: Tech, hoje vamos conversar sobre Desenvolvedores conseguem fazer agente de IA Muse, da Meta, baixar todo o conteúdo do sistema de arquivos da máquina virtual onde estava sendo executado. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Desenvolvedores conseguem fazer agente de IA Muse, da Meta, baixar todo o conteúdo do sistema de arquivos da máquina virtual onde estava sendo executado, vale a pena usar uma analogia do cotidiano. Segundo Peter James e Jonny Saunders, as informações incluíam arquivos do sistema operacional Ubuntu e documentação interna do modelo. Ambos afirmam que foi “extremamente fácil” reproduzi... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: AÇÃO COLETIVA NOS EUA PEDE INDENIZAÇÃO DA OPENAI SOB ALEGAÇÃO DE QUE A EMPRESA ESTARIA ENVIANDO CONVERSAS DE USUÁRIOS COM CHATGPT A REVISORES EXTERNOS SEM AVISO\nTico: Tech, hoje vamos conversar sobre Ação coletiva nos EUA pede indenização da OpenAI sob alegação de que a empresa estaria enviando conversas de usuários com ChatGPT a revisores externos sem aviso. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Ação coletiva nos EUA pede indenização da OpenAI sob alegação de que a empresa estaria enviando conversas de usuários com ChatGPT a revisores externos sem aviso, vale a pena usar uma analogia do cotidiano. O processo ocorre após uma investigação sobre o Project Lily, no qual esses contratados teriam acesso aos prompts dos usuários e a até quatro respostas do modelo, atribuindo notas de um a... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/microsoft-lanca-super-aplicativo-do-copilot-que-reune-chat-programacao-agentes-de-ia-e-office"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/desenvolvedores-conseguem-fazer-agente-de-ia-muse-da-meta-baixar-todo-o-conteudo-do-sistema-de-arquivos-da-maquina-virtual-onde-estava-sendo-executado"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/acao-coletiva-nos-eua-pede-indenizacao-da-openai-sob-alegacao-de-que-a-empresa-estaria-enviando-conversas-de-usuarios-com-chatgpt-a-revisores-externos-sem-aviso"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep57_audio.mp3"
+  },
+  {
     "id": 56,
     "guid": "podcast-ep056-20260924",
     "title": "Ep 56: Destaques: ChatGPT Voice recebe três melhorias",
