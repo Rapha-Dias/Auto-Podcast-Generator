@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 59: Destaques: Quando sua IA diz "Pronto!", não acredite ainda</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/KuroudoAI/quando-sua-ia-diz-pronto-nao-acredite-ainda
+• TabNews: https://www.tabnews.com.br/pedrohesm/pitch-trackerr-o-copiloto-da-minha-carteira-que-prefere-dizer-nao-sei-a-te-recomendar-uma-acao
+• TabNews: https://www.tabnews.com.br/fellfoliostudio/pitch-o-que-separamos-entre-dados-locais-e-compartilhamento-no-fellfolio
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep059-20260927</guid>
+      <pubDate>Sun, 27 Sep 2026 14:54:27 +0000</pubDate>
+      <itunes:duration>00:04:01</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep59_audio.mp3" length="1450656" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 58: Destaques: Como levei um blog em PHP puro de 84 para 97 no PageSpeed</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!

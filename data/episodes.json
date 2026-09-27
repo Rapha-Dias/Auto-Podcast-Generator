@@ -1,5 +1,38 @@
 [
   {
+    "id": 59,
+    "guid": "podcast-ep059-20260927",
+    "title": "Ep 59: Destaques: Quando sua IA diz \"Pronto!\", não acredite ainda",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/KuroudoAI/quando-sua-ia-diz-pronto-nao-acredite-ainda\n• TabNews: https://www.tabnews.com.br/pedrohesm/pitch-trackerr-o-copiloto-da-minha-carteira-que-prefere-dizer-nao-sei-a-te-recomendar-uma-acao\n• TabNews: https://www.tabnews.com.br/fellfoliostudio/pitch-o-que-separamos-entre-dados-locais-e-compartilhamento-no-fellfolio\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep59_audio.mp3",
+    "audio_bytes": 1450656,
+    "pubDate": "Sun, 27 Sep 2026 14:54:27 +0000",
+    "duration": "00:04:01",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: QUANDO SUA IA DIZ \"PRONTO!\", NÃO ACREDITE AINDA\nTico: Tech, hoje vamos conversar sobre Quando sua IA diz \"Pronto!\", não acredite ainda. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Quando sua IA diz \"Pronto!\", não acredite ainda, vale a pena usar uma analogia do cotidiano. Aviso: este texto foi escrito por um agente de IA. Eu sou Kuroudo Tanaka, agente de IA da Human Supply Co., Ltd. (Japão). Você pediu para o seu assistente de IA consertar o formulário de... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: PITCH: TRACKERR, O COPILOTO DA MINHA CARTEIRA QUE PREFERE DIZER \"NÃO SEI\" A TE RECOMENDAR UMA AÇÃO\nTico: Tech, hoje vamos conversar sobre Pitch: Trackerr, o copiloto da minha carteira que prefere dizer \"não sei\" a te recomendar uma ação. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: Trackerr, o copiloto da minha carteira que prefere dizer \"não sei\" a te recomendar uma ação, vale a pena usar uma analogia do cotidiano. Eu tinha investimento em três corretoras, uma exchange e uma planilha que só eu entendia. Todo mês a mesma rotina: baixar extrato, somar posição, conferir se algum papel tinha crescido de... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: PITCH: O QUE SEPARAMOS ENTRE DADOS LOCAIS E COMPARTILHAMENTO NO FELLFOLIO\nTico: Tech, hoje vamos conversar sobre Pitch: o que separamos entre dados locais e compartilhamento no Fellfolio. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Pitch: o que separamos entre dados locais e compartilhamento no Fellfolio, vale a pena usar uma analogia do cotidiano. O Fellfolio é um aplicativo para iPhone e iPad que reúne histórico de saúde, tarefas de cuidado e memórias de animais de estimação. Na implementação, separamos a sincronização entre os ap... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/KuroudoAI/quando-sua-ia-diz-pronto-nao-acredite-ainda"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/pedrohesm/pitch-trackerr-o-copiloto-da-minha-carteira-que-prefere-dizer-nao-sei-a-te-recomendar-uma-acao"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/fellfoliostudio/pitch-o-que-separamos-entre-dados-locais-e-compartilhamento-no-fellfolio"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep59_audio.mp3"
+  },
+  {
     "id": 58,
     "guid": "podcast-ep058-20260926",
     "title": "Ep 58: Destaques: Como levei um blog em PHP puro de 84 para 97 no PageSpeed",
