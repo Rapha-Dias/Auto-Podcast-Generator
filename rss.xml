@@ -15,6 +15,26 @@
     <itunes:image href="https://seu-usuario.github.io/seu-repositorio/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ep 60: Destaques: Como estruturei um SaaS B2B Privacy-First  focado em eficiência e conformidade com a LGPD</title>
+      <description>🎙️ SOBRE ESTE EPISÓDIO:
+Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
+
+⏱️ CAPÍTULOS E MARCAS DE TEMPO:
+• 00:00 - Cap 01: Intro
+
+🔗 FONTES CITADAS E LINKS RECOMENDADOS:
+• TabNews: https://www.tabnews.com.br/lucianafocustrack/como-estruturei-um-saas-b2b-privacy-first-django-react-focado-em-eficiencia-e-conformidade-com-a-lgpd
+• TabNews: https://www.tabnews.com.br/renannoronha/pitch-supera-me-um-ranking-publico-de-sites-onde-quem-paga-mais-fica-no-topo-e-como-contei-os-cliques-sem-cookies
+• TabNews: https://www.tabnews.com.br/NewsletterOficial/agente-de-ia-muse-da-meta-estaria-utilizando-modelos-de-outras-empresas-como-openai-e-anthropic-em-determinadas-tarefas
+</description>
+      <itunes:summary>Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>podcast-ep060-20260928</guid>
+      <pubDate>Mon, 28 Sep 2026 17:52:20 +0000</pubDate>
+      <itunes:duration>00:04:13</itunes:duration>
+      <enclosure url="https://seu-usuario.github.io/seu-repositorio/episodes/ep60_audio.mp3" length="1520784" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Ep 59: Destaques: Quando sua IA diz "Pronto!", não acredite ainda</title>
       <description>🎙️ SOBRE ESTE EPISÓDIO:
 Neste episódio do Meu Podcast de TI &amp; Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!
