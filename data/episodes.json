@@ -1,5 +1,38 @@
 [
   {
+    "id": 61,
+    "guid": "podcast-ep061-20260929",
+    "title": "Ep 61: Destaques: OpenAI teria cancelado lançamento do Astra 6.1 por comportamento considerado inseguro",
+    "summary": "Neste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!",
+    "description": "🎙️ SOBRE ESTE EPISÓDIO:\nNeste episódio do Meu Podcast de TI & Tecnologia, Tico e Tech conversam sobre os tópicos essenciais de tecnologia para impulsionar seus conhecimentos!\n\n⏱️ CAPÍTULOS E MARCAS DE TEMPO:\n• 00:00 - Cap 01: Intro\n\n🔗 FONTES CITADAS E LINKS RECOMENDADOS:\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/nvidia-lanca-plataforma-de-seguranca-que-promete-conter-agentes-de-ia-fora-de-controle-em-milissegundos\n• TabNews: https://www.tabnews.com.br/NewsletterOficial/anthropic-lanca-claude-sonnet-5-5\n",
+    "audio_url": "https://seu-usuario.github.io/seu-repositorio/episodes/ep61_audio.mp3",
+    "audio_bytes": 1477872,
+    "pubDate": "Tue, 29 Sep 2026 16:14:03 +0000",
+    "duration": "00:04:06",
+    "script": "[00:00] INTRODUÇÃO\nTico: Olá, pessoal! Sejam muito bem-vindos ao Meu Podcast de TI & Tecnologia, o seu espaço diário sobre tecnologia, inovação e desenvolvimento!\nTech: Fala, gente! Eu sou a Tech e hoje preparamos um episódio super completo sobre os tópicos que mais geram dúvidas.\nTico: É isso mesmo, Tech! Vamos descomplicar cada assunto sem jargões difíceis. Peguem seu café e venham com a gente!\n\n[00:00] BLOCO 1: OPENAI TERIA CANCELADO LANÇAMENTO DO ASTRA 6.1 POR COMPORTAMENTO CONSIDERADO INSEGURO\nTico: Tech, hoje vamos conversar sobre OpenAI teria cancelado lançamento do Astra 6.1 por comportamento considerado inseguro. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender OpenAI teria cancelado lançamento do Astra 6.1 por comportamento considerado inseguro, vale a pena usar uma analogia do cotidiano. O modelo estava previsto para ser lançado nos próximos dias, mas, segundo Saachi Jain, chefe de sistemas de segurança da empresa, ele apresentou desempenho inferior ao antecessor em alinh... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 2: NVIDIA LANÇA PLATAFORMA DE SEGURANÇA QUE PROMETE CONTER AGENTES DE IA FORA DE CONTROLE EM MILISSEGUNDOS\nTico: Tech, hoje vamos conversar sobre Nvidia lança plataforma de segurança que promete conter agentes de IA fora de controle em milissegundos. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Nvidia lança plataforma de segurança que promete conter agentes de IA fora de controle em milissegundos, vale a pena usar uma analogia do cotidiano. A Open Agent Safety Platform utiliza o software de código aberto OpenShell, executado no chip Vera AI CPU da empresa, para definir quais informações cada modelo pode acessar e verificar e... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] BLOCO 3: ANTHROPIC LANÇA CLAUDE SONNET 5.5\nTico: Tech, hoje vamos conversar sobre Anthropic lança Claude Sonnet 5.5. O que esse conceito significa na prática para quem quer aprender?\nTech: Excelente pergunta, Tico! Para entender Anthropic lança Claude Sonnet 5.5, vale a pena usar uma analogia do cotidiano. O modelo é indicado para tarefas como correção de bugs e criação de documentos, apresentações e planilhas. Ele atingiu 70,6% no Terminal-Bench 4.0 (que avalia a capacidade de executar tar... Na prática, isso traz exatamente a organização e a eficiência de que precisamos.\nTico: Incrível! E qual é a melhor forma de aplicar isso no dia a dia?\nTech: Comece aplicando em pequenos projetos práticos. Divida o problema em etapas simples e resolva uma de cada vez. A constância é a chave do sucesso!\n\n[00:00] RECAPITULAÇÃO E DICAS DE ESTUDO\nTech: E assim chegamos ao final do nosso episódio de hoje! Lembrem-se: aprender tecnologia é uma maratona constante.\nTico: Com certeza! Todos os links das matérias citadas estão nas show notes do episódio. Nos vemos no próximo programa!\nTech: Até lá, pessoal, bons estudos!",
+    "sources": [
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/openai-teria-cancelado-lancamento-do-astra-6-1-por-comportamento-considerado-inseguro"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/nvidia-lanca-plataforma-de-seguranca-que-promete-conter-agentes-de-ia-fora-de-controle-em-milissegundos"
+      ],
+      [
+        "TabNews",
+        "https://www.tabnews.com.br/NewsletterOficial/anthropic-lanca-claude-sonnet-5-5"
+      ]
+    ],
+    "chapters": [
+      [
+        "00:00",
+        "Intro"
+      ]
+    ],
+    "local_audio_path": "/home/runner/work/Auto-Podcast-Generator/Auto-Podcast-Generator/episodes/ep61_audio.mp3"
+  },
+  {
     "id": 60,
     "guid": "podcast-ep060-20260928",
     "title": "Ep 60: Destaques: Como estruturei um SaaS B2B Privacy-First  focado em eficiência e conformidade com a LGPD",
